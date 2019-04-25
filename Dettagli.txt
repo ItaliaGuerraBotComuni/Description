@@ -32,8 +32,8 @@ Acerra - Comuni controllati:
 	Acerra
 	Brusciano
 	Mariglianella
-Aci Bonaccorsi - Comuni controllati: 
-	Aci Bonaccorsi
+	Castello di Cisterna
+Aci Bonaccorsi - Comune controllato: 
 	Valverde
 Aci Castello - Comune controllato: 
 	Aci Castello
@@ -42,6 +42,7 @@ Aci Catena - Comune controllato:
 Aci Sant'Antonio - Comuni controllati: 
 	Aci Sant'Antonio
 	Viagrande
+	Aci Bonaccorsi
 Acireale - Comune controllato: 
 	Acireale
 Acquacanina - Comuni controllati: 
@@ -80,8 +81,7 @@ Acquaviva delle Fonti - Comune controllato:
 	Acquaviva delle Fonti
 Acquedolci - Comune controllato: 
 	Acquedolci
-Acqui Terme - Comune controllato: 
-	Acqui Terme
+Acqui Terme - Comune non indipendente, controllore: Montabone
 Acri - Comuni controllati: 
 	Acri
 	Vaccarizzo Albanese
@@ -93,8 +93,7 @@ Adrano - Comuni controllati:
 	Biancavilla
 Adrara San Martino - Comune controllato: 
 	Adrara San Martino
-Adrara San Rocco - Comune controllato: 
-	Adrara San Rocco
+Adrara San Rocco - Comune non indipendente, controllore: Vigolo
 Adria - Comune controllato: 
 	Adria
 Adro - Comuni controllati: 
@@ -112,6 +111,7 @@ Agazzano - Comune non indipendente, controllore: Piozzano
 Agerola - Comuni controllati: 
 	Agerola
 	Furore
+	Conca dei Marini
 Aggius - Comuni controllati: 
 	Aggius
 	Trinita' d'Agultu e Vignola
@@ -126,8 +126,7 @@ Agna - Comune controllato:
 	Agna
 Agnadello - Comune controllato: 
 	Agnadello
-Agnana Calabra - Comuni controllati: 
-	Agnana Calabra
+Agnana Calabra - Comune controllato: 
 	Gerace
 Agnone - Comune controllato: 
 	Agnone
@@ -147,7 +146,7 @@ Agropoli - Comune controllato:
 	Agropoli
 Agugliano - Comune controllato: 
 	Agugliano
-Agugliaro - Comune non indipendente, controllore: Campiglia dei Berici
+Agugliaro - Comune non indipendente, controllore: Albettone
 Aicurzio - Comune non indipendente, controllore: Sulbiate
 Aidomaggiore - Comune controllato: 
 	Aidomaggiore
@@ -164,7 +163,7 @@ Aieta - Comune controllato:
 	Aieta
 Ailano - Comune controllato: 
 	Ailano
-Ailoche - Comune non indipendente, controllore: Crevacuore
+Ailoche - Comune non indipendente, controllore: Caprile
 Airasca - Comune non indipendente, controllore: Piscina
 Airola - Comuni controllati: 
 	Airola
@@ -214,9 +213,12 @@ Albaredo per San Marco - Comune non indipendente, controllore: Bema
 Albareto - Comuni controllati: 
 	Albareto
 	Compiano
+	Borgo Val di Taro
+	Bedonia
 Albaretto della Torre - Comuni controllati: 
 	Albaretto della Torre
 	Cerretto Langhe
+	Arguello
 Albavilla - Comune controllato: 
 	Albavilla
 Albenga - Comune non indipendente, controllore: Borghetto Santo Spirito
@@ -229,11 +231,12 @@ Alberobello - Comuni controllati:
 Alberona - Comune controllato: 
 	Alberona
 Albese con Cassano - Comune non indipendente, controllore: Tavernerio
-Albettone - Comune controllato: 
+Albettone - Comuni controllati: 
 	Albettone
+	Agugliaro
 Albi - Comune controllato: 
 	Albi
-Albiano - Comune non indipendente, controllore: Fornace
+Albiano - Comune non indipendente, controllore: Civezzano
 Albiano d'Ivrea - Comune controllato: 
 	Albiano d'Ivrea
 Albiate - Comune non indipendente, controllore: Seregno
@@ -408,8 +411,8 @@ Amatrice - Comune non indipendente, controllore: Arquata del Tronto
 Ambivere - Comuni controllati: 
 	Ambivere
 	Mapello
-Amblar - Comuni controllati: 
-	Amblar
+	Sotto il Monte Giovanni XXIII
+Amblar - Comune controllato: 
 	Don
 Ameglia - Comune controllato: 
 	Ameglia
@@ -417,14 +420,17 @@ Amelia - Comuni controllati:
 	Amelia
 	Lugnano in Teverina
 	Alviano
+	Guardea
 Amendolara - Comune controllato: 
 	Amendolara
 Ameno - Comuni controllati: 
 	Ameno
 	Miasino
 	Orta San Giulio
-Amorosi - Comune controllato: 
+	Pettenasco
+Amorosi - Comuni controllati: 
 	Amorosi
+	Puglianello
 Ampezzo - Comune non indipendente, controllore: Forni di Sotto
 Anacapri - Comuni controllati: 
 	Anacapri
@@ -440,8 +446,7 @@ Andalo Valtellino - Comune controllato:
 	Andalo Valtellino
 Andezeno - Comune controllato: 
 	Andezeno
-Andora - Comune controllato: 
-	Andora
+Andora - Comune non indipendente, controllore: Laigueglia
 Andorno Micca - Comune non indipendente, controllore: Sagliano Micca
 Andrano - Comune controllato: 
 	Andrano
@@ -451,7 +456,6 @@ Andreis - Comune non indipendente, controllore: Frisanco
 Andretta - Comuni controllati: 
 	Andretta
 	Morra De Sanctis
-	Cairano
 Andria - Comuni controllati: 
 	Andria
 	Corato
@@ -483,9 +487,8 @@ Angrogna - Comune controllato:
 Anguillara Sabazia - Comune controllato: 
 	Anguillara Sabazia
 Anguillara Veneta - Comune non indipendente, controllore: San Martino di Venezze
-Annicco - Comuni controllati: 
+Annicco - Comune controllato: 
 	Annicco
-	Cappella Cantone
 Annone Veneto - Comune controllato: 
 	Annone Veneto
 Annone di Brianza - Comune non indipendente, controllore: Oggiono
@@ -507,8 +510,9 @@ Antrodoco - Comune controllato:
 	Antrodoco
 Antrona Schieranco - Comune controllato: 
 	Antrona Schieranco
-Anversa degli Abruzzi - Comune controllato: 
+Anversa degli Abruzzi - Comuni controllati: 
 	Anversa degli Abruzzi
+	Bugnara
 Anzano del Parco - Comune controllato: 
 	Anzano del Parco
 Anzano di Puglia - Comuni controllati: 
@@ -630,20 +634,19 @@ Argenta - Comune controllato:
 	Argenta
 Argentera - Comune controllato: 
 	Argentera
-Arguello - Comune controllato: 
-	Arguello
+Arguello - Comune non indipendente, controllore: Albaretto della Torre
 Argusto - Comune controllato: 
 	Argusto
 Ari - Comune controllato: 
 	Ari
-Ariano Irpino - Comuni controllati: 
+Ariano Irpino - Comune controllato: 
 	Ariano Irpino
-	Villanova del Battista
 Ariano nel Polesine - Comuni controllati: 
 	Ariano nel Polesine
 	Taglio di Po
 	Mesola
 	Codigoro
+	Porto Viro
 Ariccia - Comuni controllati: 
 	Ariccia
 	Albano Laziale
@@ -665,8 +668,7 @@ Armo - Comuni controllati:
 	Caprauna
 	Alto
 Armungia - Comune non indipendente, controllore: Ballao
-Arnad - Comune controllato: 
-	Arnad
+Arnad - Comune non indipendente, controllore: Donnas
 Arnara - Comuni controllati: 
 	Arnara
 	Ceccano
@@ -686,8 +688,7 @@ Arpaise - Comune controllato:
 	Arpaise
 Arpino - Comune controllato: 
 	Arpino
-Arqua' Petrarca - Comune controllato: 
-	Arqua' Petrarca
+Arqua' Petrarca - Comune non indipendente, controllore: Cinto Euganeo
 Arqua' Polesine - Comune non indipendente, controllore: Bosaro
 Arquata Scrivia - Comuni controllati: 
 	Arquata Scrivia
@@ -717,7 +718,7 @@ Arsoli - Comune controllato:
 	Arsoli
 Arta Terme - Comune controllato: 
 	Arta Terme
-Artegna - Comune non indipendente, controllore: Magnano in Riviera
+Artegna - Comune non indipendente, controllore: Gemona del Friuli
 Artena - Comune controllato: 
 	Artena
 Artogne - Comune controllato: 
@@ -734,8 +735,9 @@ Arzene - Comune non indipendente, controllore: San Martino al Tagliamento
 Arzergrande - Comuni controllati: 
 	Arzergrande
 	Pontelongo
-Arzignano - Comune controllato: 
+Arzignano - Comuni controllati: 
 	Arzignano
+	Montorso Vicentino
 Ascea - Comune controllato: 
 	Ascea
 Asciano - Comune controllato: 
@@ -801,8 +803,7 @@ Attimis - Comuni controllati:
 	Torreano
 Atzara - Comune controllato: 
 	Atzara
-Auditore - Comune controllato: 
-	Auditore
+Auditore - Comune non indipendente, controllore: Tavoleto
 Augusta - Comune controllato: 
 	Augusta
 Auletta - Comuni controllati: 
@@ -839,8 +840,9 @@ Averara - Comune controllato:
 	Averara
 Aversa - Comune controllato: 
 	Aversa
-Avetrana - Comune controllato: 
+Avetrana - Comuni controllati: 
 	Avetrana
+	Erchie
 Avezzano - Comune controllato: 
 	Avezzano
 Aviano - Comune controllato: 
@@ -878,6 +880,7 @@ Azzano Mella - Comune controllato:
 Azzano San Paolo - Comuni controllati: 
 	Azzano San Paolo
 	Orio al Serio
+	Stezzano
 Azzano d'Asti - Comune controllato: 
 	Azzano d'Asti
 Azzate - Comune non indipendente, controllore: Buguggiate
@@ -889,7 +892,7 @@ Azzone - Comune controllato:
 	Azzone
 Baceno - Comune controllato: 
 	Baceno
-Bacoli - Comune non indipendente, controllore: Monte di Procida
+Bacoli - Comune non indipendente, controllore: Procida
 Badalucco - Comune non indipendente, controllore: Sanremo
 Badesi - Comune non indipendente, controllore: Viddalba
 Badia - Comune controllato: 
@@ -942,6 +945,7 @@ Bagnolo Piemonte - Comune controllato:
 Bagnolo San Vito - Comuni controllati: 
 	Bagnolo San Vito
 	San Benedetto Po
+	Virgilio
 Bagnolo del Salento - Comuni controllati: 
 	Bagnolo del Salento
 	Palmariggi
@@ -988,8 +992,7 @@ Balme - Comune controllato:
 	Balme
 Balmuccia - Comune controllato: 
 	Balmuccia
-Balocco - Comune controllato: 
-	Balocco
+Balocco - Comune non indipendente, controllore: Formigliana
 Balsorano - Comune controllato: 
 	Balsorano
 Balvano - Comuni controllati: 
@@ -1019,7 +1022,7 @@ Baranzate - Comune non indipendente, controllore: Novate Milanese
 Barasso - Comuni controllati: 
 	Barasso
 	Luvinate
-Baratili San Pietro - Comune non indipendente, controllore: Nurachi
+Baratili San Pietro - Comune non indipendente, controllore: Siamaggiore
 Barbania - Comune controllato: 
 	Barbania
 Barbara - Comune non indipendente, controllore: Castelleone di Suasa
@@ -1029,7 +1032,6 @@ Barbarano Vicentino - Comune controllato:
 	Barbarano Vicentino
 Barbaresco - Comuni controllati: 
 	Barbaresco
-	Neive
 	Treiso
 Barbariga - Comune controllato: 
 	Barbariga
@@ -1043,8 +1045,7 @@ Barbiano - Comune controllato:
 Barbona - Comune non indipendente, controllore: Lusia
 Barcellona Pozzo di Gotto - Comune controllato: 
 	Barcellona Pozzo di Gotto
-Barchi - Comune controllato: 
-	Barchi
+Barchi - Comune non indipendente, controllore: Sant'Ippolito
 Barcis - Comune controllato: 
 	Barcis
 Bard - Comune non indipendente, controllore: Donnas
@@ -1060,6 +1061,7 @@ Bardonecchia - Comuni controllati:
 	Oulx
 	Sauze d'Oulx
 	Salbertrand
+	Exilles
 Bareggio - Comune controllato: 
 	Bareggio
 Barengo - Comune controllato: 
@@ -1182,8 +1184,7 @@ Bedero Valcuvia - Comuni controllati:
 Bedizzole - Comune controllato: 
 	Bedizzole
 Bedollo - Comune non indipendente, controllore: Segonzano
-Bedonia - Comune controllato: 
-	Bedonia
+Bedonia - Comune non indipendente, controllore: Albareto
 Bedulita - Comune controllato: 
 	Bedulita
 Bee - Comune non indipendente, controllore: Vignone
@@ -1230,8 +1231,7 @@ Bellusco - Comune controllato:
 	Bellusco
 Belmonte Calabro - Comune controllato: 
 	Belmonte Calabro
-Belmonte Castello - Comune controllato: 
-	Belmonte Castello
+Belmonte Castello - Comune non indipendente, controllore: Terelle
 Belmonte Mezzagno - Comune controllato: 
 	Belmonte Mezzagno
 Belmonte Piceno - Comune controllato: 
@@ -1247,9 +1247,8 @@ Belsito - Comuni controllati:
 	Paterno Calabro
 Belvedere Langhe - Comune controllato: 
 	Belvedere Langhe
-Belvedere Marittimo - Comuni controllati: 
+Belvedere Marittimo - Comune controllato: 
 	Belvedere Marittimo
-	Sangineto
 Belvedere Ostrense - Comune controllato: 
 	Belvedere Ostrense
 Belvedere di Spinello - Comune controllato: 
@@ -1259,8 +1258,7 @@ Belveglio - Comune controllato:
 Belvi' - Comuni controllati: 
 	Belvi'
 	Aritzo
-Bema - Comuni controllati: 
-	Bema
+Bema - Comune controllato: 
 	Albaredo per San Marco
 Bene Lario - Comuni controllati: 
 	Bene Lario
@@ -1289,8 +1287,9 @@ Berbenno di Valtellina - Comune controllato:
 Berceto - Comuni controllati: 
 	Berceto
 	Valmozzola
-Berchidda - Comune controllato: 
+Berchidda - Comuni controllati: 
 	Berchidda
+	Oschiri
 Beregazzo con Figliaro - Comune non indipendente, controllore: Olgiate Comasco
 Bereguardo - Comune controllato: 
 	Bereguardo
@@ -1309,23 +1308,20 @@ Berlingo - Comune controllato:
 Bernalda - Comune non indipendente, controllore: Ginosa
 Bernareggio - Comune controllato: 
 	Bernareggio
-Bernate Ticino - Comuni controllati: 
+Bernate Ticino - Comune controllato: 
 	Bernate Ticino
-	Boffalora sopra Ticino
 Bernezzo - Comuni controllati: 
 	Bernezzo
 	Roccasparvera
 Berra - Comune non indipendente, controllore: Jolanda di Savoia
-Bersone - Comune controllato: 
-	Bersone
+Bersone - Comune non indipendente, controllore: Condino
 Bertinoro - Comune controllato: 
 	Bertinoro
 Bertiolo - Comune controllato: 
 	Bertiolo
 Bertonico - Comune controllato: 
 	Bertonico
-Berzano di San Pietro - Comuni controllati: 
-	Berzano di San Pietro
+Berzano di San Pietro - Comune controllato: 
 	Cinzano
 Berzano di Tortona - Comune non indipendente, controllore: Monleale
 Berzo Demo - Comuni controllati: 
@@ -1370,7 +1366,7 @@ Biandrate - Comune controllato:
 	Biandrate
 Biandronno - Comune controllato: 
 	Biandronno
-Bianzano - Comune non indipendente, controllore: Leffe
+Bianzano - Comune non indipendente, controllore: Gaverina Terme
 Bianze' - Comune controllato: 
 	Bianze'
 Bianzone - Comuni controllati: 
@@ -1440,8 +1436,10 @@ Bizzarone - Comune controllato:
 	Bizzarone
 Bleggio Superiore - Comune controllato: 
 	Bleggio Superiore
-Blello - Comune controllato: 
+Blello - Comuni controllati: 
 	Blello
+	Corna Imagna
+	Locatello
 Blera - Comune controllato: 
 	Blera
 Blessagno - Comune controllato: 
@@ -1464,12 +1462,11 @@ Bocchigliero - Comuni controllati:
 Boccioleto - Comune controllato: 
 	Boccioleto
 Bocenago - Comune non indipendente, controllore: Caderzone Terme
-Bodio Lomnago - Comune controllato: 
-	Bodio Lomnago
+Bodio Lomnago - Comune non indipendente, controllore: Inarzo
 Boffalora d'Adda - Comuni controllati: 
 	Boffalora d'Adda
 	Galgagnano
-Boffalora sopra Ticino - Comune non indipendente, controllore: Bernate Ticino
+Boffalora sopra Ticino - Comune non indipendente, controllore: Magenta
 Bogliasco - Comune non indipendente, controllore: Pieve Ligure
 Bognanco - Comune controllato: 
 	Bognanco
@@ -1527,8 +1524,9 @@ Bonate Sotto - Comuni controllati:
 	Bonate Sopra
 	Presezzo
 Bonavigo - Comune non indipendente, controllore: Angiari
-Bondeno - Comune controllato: 
+Bondeno - Comuni controllati: 
 	Bondeno
+	Felonica
 Bondo - Comuni controllati: 
 	Bondo
 	Tione di Trento
@@ -1541,8 +1539,9 @@ Bonefro - Comune controllato:
 Bonemerse - Comuni controllati: 
 	Bonemerse
 	Malagnino
-Bonifati - Comune controllato: 
+Bonifati - Comuni controllati: 
 	Bonifati
+	Sangineto
 Bonito - Comune controllato: 
 	Bonito
 Bonnanaro - Comune non indipendente, controllore: Siligo
@@ -1586,8 +1585,7 @@ Borghi - Comuni controllati:
 	Torriana
 Borgia - Comune controllato: 
 	Borgia
-Borgiallo - Comune controllato: 
-	Borgiallo
+Borgiallo - Comune non indipendente, controllore: Colleretto Castelnuovo
 Borgio Verezzi - Comune controllato: 
 	Borgio Verezzi
 Borgo Pace - Comune non indipendente, controllore: Mercatello sul Metauro
@@ -1596,7 +1594,7 @@ Borgo Priolo - Comune controllato:
 Borgo San Dalmazzo - Comune non indipendente, controllore: Roccavione
 Borgo San Giacomo - Comune controllato: 
 	Borgo San Giacomo
-Borgo San Giovanni - Comune non indipendente, controllore: Castiraga Vidardo
+Borgo San Giovanni - Comune non indipendente, controllore: Lodi Vecchio
 Borgo San Lorenzo - Comune controllato: 
 	Borgo San Lorenzo
 Borgo San Martino - Comune non indipendente, controllore: Ticineto
@@ -1606,8 +1604,7 @@ Borgo Ticino - Comuni controllati:
 	Castelletto sopra Ticino
 Borgo Tossignano - Comune controllato: 
 	Borgo Tossignano
-Borgo Val di Taro - Comune controllato: 
-	Borgo Val di Taro
+Borgo Val di Taro - Comune non indipendente, controllore: Albareto
 Borgo Valsugana - Comune controllato: 
 	Borgo Valsugana
 Borgo Velino - Comune non indipendente, controllore: Castel Sant'Angelo
@@ -1638,8 +1635,7 @@ Borgonovo Val Tidone - Comune controllato:
 Borgoratto Alessandrino - Comune non indipendente, controllore: Frascaro
 Borgoratto Mormorolo - Comune controllato: 
 	Borgoratto Mormorolo
-Borgoricco - Comune controllato: 
-	Borgoricco
+Borgoricco - Comune non indipendente, controllore: Massanzago
 Borgorose - Comune controllato: 
 	Borgorose
 Borgosatollo - Comune controllato: 
@@ -1651,14 +1647,16 @@ Bornasco - Comuni controllati:
 	Bornasco
 	Zeccone
 	Ceranova
+	San Genesio ed Uniti
 Borno - Comune controllato: 
 	Borno
 Boroneddu - Comune non indipendente, controllore: Soddi'
 Borore - Comune non indipendente, controllore: Birori
 Borrello - Comune controllato: 
 	Borrello
-Borriana - Comune controllato: 
+Borriana - Comuni controllati: 
 	Borriana
+	Ponderano
 Borso del Grappa - Comuni controllati: 
 	Borso del Grappa
 	Crespano del Grappa
@@ -1687,6 +1685,7 @@ Bosconero - Comuni controllati:
 	Bosconero
 	Feletto
 	Lusiglie'
+	Ciconio
 Boscoreale - Comuni controllati: 
 	Boscoreale
 	Scafati
@@ -1739,8 +1738,7 @@ Bovolone - Comune controllato:
 	Bovolone
 Bozzole - Comune controllato: 
 	Bozzole
-Bozzolo - Comune controllato: 
-	Bozzolo
+Bozzolo - Comune non indipendente, controllore: Gazzuolo
 Bra - Comune controllato: 
 	Bra
 Bracca - Comune controllato: 
@@ -1813,8 +1811,7 @@ Bresimo - Comune controllato:
 	Bresimo
 Bressana Bottarone - Comune controllato: 
 	Bressana Bottarone
-Bressanone - Comune controllato: 
-	Bressanone
+Bressanone - Comune non indipendente, controllore: Funes
 Bressanvido - Comune controllato: 
 	Bressanvido
 Bresso - Comune controllato: 
@@ -1896,13 +1893,12 @@ Brugherio - Comune controllato:
 Brugine - Comune controllato: 
 	Brugine
 Brugnato - Comune non indipendente, controllore: Rocchetta di Vara
-Brugnera - Comune non indipendente, controllore: Gaiarine
+Brugnera - Comune non indipendente, controllore: Pasiano di Pordenone
 Bruino - Comune non indipendente, controllore: Villarbasse
 Brumano - Comune non indipendente, controllore: Morterone
 Brunate - Comune controllato: 
 	Brunate
-Brunello - Comune controllato: 
-	Brunello
+Brunello - Comune non indipendente, controllore: Castronno
 Brunico - Comuni controllati: 
 	Brunico
 	San Lorenzo di Sebato
@@ -1929,7 +1925,7 @@ Bruzzano Zeffirio - Comuni controllati:
 Bubbiano - Comune non indipendente, controllore: Calvignasco
 Bubbio - Comune controllato: 
 	Bubbio
-Buccheri - Comune non indipendente, controllore: Francofonte
+Buccheri - Comune non indipendente, controllore: Vizzini
 Bucchianico - Comune non indipendente, controllore: Chieti
 Bucciano - Comune controllato: 
 	Bucciano
@@ -1951,7 +1947,7 @@ Buggiano - Comuni controllati:
 	Uzzano
 Buglio in Monte - Comune controllato: 
 	Buglio in Monte
-Bugnara - Comune non indipendente, controllore: Introdacqua
+Bugnara - Comune non indipendente, controllore: Anversa degli Abruzzi
 Buguggiate - Comuni controllati: 
 	Buguggiate
 	Azzate
@@ -1984,8 +1980,9 @@ Burgos - Comuni controllati:
 	Esporlatu
 Buriasco - Comune non indipendente, controllore: Macello
 Burolo - Comune non indipendente, controllore: Bollengo
-Buronzo - Comune controllato: 
+Buronzo - Comuni controllati: 
 	Buronzo
+	Gifflenga
 Busachi - Comune controllato: 
 	Busachi
 Busalla - Comuni controllati: 
@@ -2015,9 +2012,8 @@ Bussi sul Tirino - Comune non indipendente, controllore: Collepietro
 Busso - Comune controllato: 
 	Busso
 Bussolengo - Comune non indipendente, controllore: Sona
-Bussoleno - Comuni controllati: 
+Bussoleno - Comune controllato: 
 	Bussoleno
-	Mattie
 Busto Arsizio - Comune controllato: 
 	Busto Arsizio
 Busto Garolfo - Comuni controllati: 
@@ -2088,7 +2084,7 @@ Caiazzo - Comune controllato:
 Caines - Comune non indipendente, controllore: Scena
 Caino - Comune non indipendente, controllore: Odolo
 Caiolo - Comune non indipendente, controllore: Piateda
-Cairano - Comune non indipendente, controllore: Andretta
+Cairano - Comune non indipendente, controllore: Sant'Andrea di Conza
 Cairate - Comune non indipendente, controllore: Gallarate
 Cairo Montenotte - Comuni controllati: 
 	Cairo Montenotte
@@ -2184,8 +2180,9 @@ Caloveto - Comuni controllati:
 	Caloveto
 	Pietrapaola
 Caltabellotta - Comune non indipendente, controllore: Sciacca
-Caltagirone - Comune controllato: 
+Caltagirone - Comuni controllati: 
 	Caltagirone
+	Grammichele
 Caltanissetta - Comune controllato: 
 	Caltanissetta
 Caltavuturo - Comuni controllati: 
@@ -2195,7 +2192,7 @@ Caltavuturo - Comuni controllati:
 	Sclafani Bagni
 Caltignaga - Comune controllato: 
 	Caltignaga
-Calto - Comune non indipendente, controllore: Castelmassa
+Calto - Comune non indipendente, controllore: Ceneselli
 Caltrano - Comune controllato: 
 	Caltrano
 Calusco d'Adda - Comune controllato: 
@@ -2203,8 +2200,9 @@ Calusco d'Adda - Comune controllato:
 Caluso - Comune controllato: 
 	Caluso
 Calvagese della Riviera - Comune non indipendente, controllore: Puegnago sul Garda
-Calvanico - Comune controllato: 
+Calvanico - Comuni controllati: 
 	Calvanico
+	Fisciano
 Calvatone - Comuni controllati: 
 	Calvatone
 	Acquanegra sul Chiese
@@ -2218,8 +2216,9 @@ Calvera - Comune non indipendente, controllore: Castronuovo di Sant'Andrea
 Calvi - Comune non indipendente, controllore: San Giorgio del Sannio
 Calvi Risorta - Comune controllato: 
 	Calvi Risorta
-Calvi dell'Umbria - Comune controllato: 
+Calvi dell'Umbria - Comuni controllati: 
 	Calvi dell'Umbria
+	Otricoli
 Calvignano - Comune controllato: 
 	Calvignano
 Calvignasco - Comuni controllati: 
@@ -2317,9 +2316,8 @@ Campiglia Cervo - Comune controllato:
 	Campiglia Cervo
 Campiglia Marittima - Comune controllato: 
 	Campiglia Marittima
-Campiglia dei Berici - Comuni controllati: 
+Campiglia dei Berici - Comune controllato: 
 	Campiglia dei Berici
-	Agugliaro
 Campiglione-Fenile - Comuni controllati: 
 	Campiglione-Fenile
 	Bricherasio
@@ -2356,8 +2354,7 @@ Campodimele - Comune controllato:
 Campodipietra - Comuni controllati: 
 	Campodipietra
 	Toro
-Campodolcino - Comune controllato: 
-	Campodolcino
+Campodolcino - Comune non indipendente, controllore: Piuro
 Campodoro - Comuni controllati: 
 	Campodoro
 	Villafranca Padovana
@@ -2482,8 +2479,7 @@ Cannalonga - Comuni controllati:
 Cannara - Comuni controllati: 
 	Cannara
 	Bettona
-Cannero Riviera - Comune controllato: 
-	Cannero Riviera
+Cannero Riviera - Comune non indipendente, controllore: Oggebbio
 Canneto Pavese - Comuni controllati: 
 	Canneto Pavese
 	Castana
@@ -2493,8 +2489,9 @@ Canneto sull'Oglio - Comuni controllati:
 Cannobio - Comune non indipendente, controllore: Cavaglio-Spoccia
 Cannole - Comune controllato: 
 	Cannole
-Canolo - Comune controllato: 
+Canolo - Comuni controllati: 
 	Canolo
+	Agnana Calabra
 Canonica d'Adda - Comune controllato: 
 	Canonica d'Adda
 Canosa Sannita - Comuni controllati: 
@@ -2544,8 +2541,9 @@ Capaccio - Comuni controllati:
 	Capaccio
 	Albanella
 	Giungano
-Capaci - Comune controllato: 
+Capaci - Comuni controllati: 
 	Capaci
+	Isola delle Femmine
 Capalbio - Comune controllato: 
 	Capalbio
 Capannoli - Comune non indipendente, controllore: Terricciola
@@ -2572,9 +2570,8 @@ Capizzi - Comune controllato:
 	Capizzi
 Capizzone - Comune controllato: 
 	Capizzone
-Capo d'Orlando - Comuni controllati: 
+Capo d'Orlando - Comune controllato: 
 	Capo d'Orlando
-	Naso
 Capo di Ponte - Comune non indipendente, controllore: Sellero
 Capodimonte - Comune controllato: 
 	Capodimonte
@@ -2600,7 +2597,7 @@ Capoterra - Comuni controllati:
 Capovalle - Comune controllato: 
 	Capovalle
 Cappadocia - Comune non indipendente, controllore: Vallepietra
-Cappella Cantone - Comune non indipendente, controllore: Annicco
+Cappella Cantone - Comune non indipendente, controllore: San Bassano
 Cappella Maggiore - Comune controllato: 
 	Cappella Maggiore
 Cappella de' Picenardi - Comune controllato: 
@@ -2618,9 +2615,8 @@ Capralba - Comune controllato:
 	Capralba
 Capranica - Comune controllato: 
 	Capranica
-Capranica Prenestina - Comuni controllati: 
+Capranica Prenestina - Comune controllato: 
 	Capranica Prenestina
-	Pisoniano
 Caprarica di Lecce - Comune controllato: 
 	Caprarica di Lecce
 Caprarola - Comuni controllati: 
@@ -2652,6 +2648,7 @@ Capriglio - Comune controllato:
 Caprile - Comuni controllati: 
 	Caprile
 	Coggiola
+	Ailoche
 Caprino Bergamasco - Comune controllato: 
 	Caprino Bergamasco
 Caprino Veronese - Comune controllato: 
@@ -2685,8 +2682,7 @@ Carate Brianza - Comune controllato:
 	Carate Brianza
 Carate Urio - Comune controllato: 
 	Carate Urio
-Caravaggio - Comune controllato: 
-	Caravaggio
+Caravaggio - Comune non indipendente, controllore: Mozzanica
 Caravate - Comune controllato: 
 	Caravate
 Caravino - Comuni controllati: 
@@ -2712,8 +2708,7 @@ Carbonate - Comune non indipendente, controllore: Mozzate
 Carbone - Comune non indipendente, controllore: Castronuovo di Sant'Andrea
 Carbonera - Comune controllato: 
 	Carbonera
-Carbonia - Comune controllato: 
-	Carbonia
+Carbonia - Comune non indipendente, controllore: Portoscuso
 Carcare - Comune non indipendente, controllore: Altare
 Carceri - Comune controllato: 
 	Carceri
@@ -2738,6 +2733,7 @@ Careggine - Comuni controllati:
 	Castelnuovo di Garfagnana
 	Molazzana
 	Camporgiano
+	Minucciano
 Carema - Comuni controllati: 
 	Carema
 	Pont-Saint-Martin
@@ -2749,23 +2745,19 @@ Careri - Comuni controllati:
 	Plati'
 Caresana - Comune non indipendente, controllore: Prarolo
 Caresanablot - Comune non indipendente, controllore: Vercelli
-Carezzano - Comuni controllati: 
+Carezzano - Comune controllato: 
 	Carezzano
-	Paderna
 Carfizzi - Comune non indipendente, controllore: Melissa
 Cargeghe - Comune non indipendente, controllore: Muros
-Cariati - Comuni controllati: 
+Cariati - Comune controllato: 
 	Cariati
-	Terravecchia
 Carife - Comuni controllati: 
 	Carife
 	Castel Baronia
-	Trevico
 Carignano - Comune controllato: 
 	Carignano
-Carimate - Comuni controllati: 
+Carimate - Comune controllato: 
 	Carimate
-	Figino Serenza
 Carinaro - Comune non indipendente, controllore: Gricignano di Aversa
 Carini - Comuni controllati: 
 	Carini
@@ -2778,8 +2770,9 @@ Carisio - Comuni controllati:
 Carisolo - Comune non indipendente, controllore: Pinzolo
 Carlantino - Comune controllato: 
 	Carlantino
-Carlazzo - Comune controllato: 
+Carlazzo - Comuni controllati: 
 	Carlazzo
+	Corrido
 Carlentini - Comune controllato: 
 	Carlentini
 Carlino - Comune controllato: 
@@ -2819,8 +2812,7 @@ Caronno Varesino - Comune controllato:
 	Caronno Varesino
 Carosino - Comune controllato: 
 	Carosino
-Carovigno - Comune controllato: 
-	Carovigno
+Carovigno - Comune non indipendente, controllore: San Vito dei Normanni
 Carovilli - Comune controllato: 
 	Carovilli
 Carpaneto Piacentino - Comune non indipendente, controllore: San Giorgio Piacentino
@@ -2877,6 +2869,7 @@ Carsoli - Comune controllato:
 Cartigliano - Comuni controllati: 
 	Cartigliano
 	Nove
+	Tezze sul Brenta
 Cartignano - Comune non indipendente, controllore: San Damiano Macra
 Cartoceto - Comuni controllati: 
 	Cartoceto
@@ -2886,12 +2879,12 @@ Cartosio - Comune controllato:
 Cartura - Comuni controllati: 
 	Cartura
 	Masera' di Padova
+	Casalserugo
 Carugate - Comune controllato: 
 	Carugate
 Carugo - Comune non indipendente, controllore: Arosio
-Carunchio - Comuni controllati: 
+Carunchio - Comune controllato: 
 	Carunchio
-	Fraine
 Carvico - Comune non indipendente, controllore: Sotto il Monte Giovanni XXIII
 Carzano - Comune controllato: 
 	Carzano
@@ -2921,8 +2914,9 @@ Casalbeltrame - Comune non indipendente, controllore: Casalino
 Casalbordino - Comune non indipendente, controllore: Pollutri
 Casalbore - Comune controllato: 
 	Casalbore
-Casalborgone - Comune controllato: 
+Casalborgone - Comuni controllati: 
 	Casalborgone
+	Berzano di San Pietro
 Casalbuono - Comune controllato: 
 	Casalbuono
 Casalbuttano ed Uniti - Comune controllato: 
@@ -2950,7 +2944,7 @@ Casalecchio di Reno - Comune controllato:
 Casaleggio Boiro - Comune non indipendente, controllore: Lerma
 Casaleggio Novara - Comune controllato: 
 	Casaleggio Novara
-Casaleone - Comune non indipendente, controllore: Cerea
+Casaleone - Comune non indipendente, controllore: Sanguinetto
 Casaletto Ceredano - Comune controllato: 
 	Casaletto Ceredano
 Casaletto Lodigiano - Comune non indipendente, controllore: Bascape'
@@ -2991,8 +2985,8 @@ Casalpusterlengo - Comuni controllati:
 	Casalpusterlengo
 	Terranova dei Passerini
 Casalromano - Comune non indipendente, controllore: Gambara
-Casalserugo - Comune non indipendente, controllore: Masera' di Padova
-Casaluce - Comune non indipendente, controllore: Frignano
+Casalserugo - Comune non indipendente, controllore: Cartura
+Casaluce - Comune non indipendente, controllore: San Tammaro
 Casalvecchio Siculo - Comuni controllati: 
 	Casalvecchio Siculo
 	Furci Siculo
@@ -3006,8 +3000,7 @@ Casalzuigno - Comune controllato:
 	Casalzuigno
 Casamarciano - Comune controllato: 
 	Casamarciano
-Casamassima - Comune controllato: 
-	Casamassima
+Casamassima - Comune non indipendente, controllore: Turi
 Casamicciola Terme - Comune non indipendente, controllore: Lacco Ameno
 Casandrino - Comune non indipendente, controllore: Melito di Napoli
 Casanova Elvo - Comune controllato: 
@@ -3074,8 +3067,7 @@ Caselle Lurani - Comune controllato:
 	Caselle Lurani
 Caselle Torinese - Comune controllato: 
 	Caselle Torinese
-Caselle in Pittari - Comune controllato: 
-	Caselle in Pittari
+Caselle in Pittari - Comune non indipendente, controllore: Morigerati
 Caserta - Comune controllato: 
 	Caserta
 Casier - Comuni controllati: 
@@ -3212,6 +3204,7 @@ Castel Maggiore - Comune non indipendente, controllore: Calderara di Reno
 Castel Mella - Comuni controllati: 
 	Castel Mella
 	Torbole Casaglia
+	Flero
 Castel Morrone - Comune controllato: 
 	Castel Morrone
 Castel Ritaldi - Comune non indipendente, controllore: Giano dell'Umbria
@@ -3269,8 +3262,7 @@ Castel di Lucio - Comuni controllati:
 	Mistretta
 Castel di Sangro - Comune controllato: 
 	Castel di Sangro
-Castel di Sasso - Comune controllato: 
-	Castel di Sasso
+Castel di Sasso - Comune non indipendente, controllore: Piana di Monte Verna
 Castel di Tora - Comune controllato: 
 	Castel di Tora
 Castelbaldo - Comune non indipendente, controllore: Masi
@@ -3285,8 +3277,7 @@ Castelbello-Ciardes - Comune controllato:
 Castelbianco - Comune controllato: 
 	Castelbianco
 Castelbottaccio - Comune non indipendente, controllore: Lupara
-Castelbuono - Comune controllato: 
-	Castelbuono
+Castelbuono - Comune non indipendente, controllore: Cefalu'
 Castelcivita - Comune non indipendente, controllore: Controne
 Castelcovati - Comune controllato: 
 	Castelcovati
@@ -3376,9 +3367,8 @@ Castelleone di Suasa - Comuni controllati:
 	Serra de' Conti
 Castellero - Comune controllato: 
 	Castellero
-Castelletto Cervo - Comuni controllati: 
+Castelletto Cervo - Comune controllato: 
 	Castelletto Cervo
-	Gifflenga
 Castelletto Merli - Comuni controllati: 
 	Castelletto Merli
 	Odalengo Piccolo
@@ -3409,11 +3399,9 @@ Castellina in Chianti - Comune controllato:
 Castellinaldo - Comune controllato: 
 	Castellinaldo
 Castellino Tanaro - Comune non indipendente, controllore: Torresina
-Castellino del Biferno - Comune controllato: 
-	Castellino del Biferno
-Castelliri - Comuni controllati: 
+Castellino del Biferno - Comune non indipendente, controllore: Montagano
+Castelliri - Comune controllato: 
 	Castelliri
-	Isola del Liri
 Castello Cabiaglio - Comune non indipendente, controllore: Brinzio
 Castello Tesino - Comune controllato: 
 	Castello Tesino
@@ -3429,17 +3417,16 @@ Castello del Matese - Comuni controllati:
 Castello dell'Acqua - Comune non indipendente, controllore: Teglio
 Castello di Annone - Comune controllato: 
 	Castello di Annone
-Castello di Brianza - Comune controllato: 
-	Castello di Brianza
-Castello di Cisterna - Comune controllato: 
-	Castello di Cisterna
+Castello di Brianza - Comune non indipendente, controllore: Santa Maria Hoe'
+Castello di Cisterna - Comune non indipendente, controllore: Acerra
 Castello di Godego - Comuni controllati: 
 	Castello di Godego
 	Loria
 Castello di Serravalle - Comune controllato: 
 	Castello di Serravalle
-Castello-Molina di Fiemme - Comune controllato: 
+Castello-Molina di Fiemme - Comuni controllati: 
 	Castello-Molina di Fiemme
+	Valfloriana
 Castellucchio - Comune non indipendente, controllore: Rodigo
 Castelluccio Inferiore - Comune controllato: 
 	Castelluccio Inferiore
@@ -3455,9 +3442,8 @@ Castelmagno - Comuni controllati:
 	Pradleves
 Castelmarte - Comune controllato: 
 	Castelmarte
-Castelmassa - Comuni controllati: 
+Castelmassa - Comune controllato: 
 	Castelmassa
-	Calto
 Castelmauro - Comune controllato: 
 	Castelmauro
 Castelmezzano - Comune non indipendente, controllore: Brindisi Montagna
@@ -3546,10 +3532,12 @@ Castelvecchio Calvisio - Comune controllato:
 Castelvecchio Subequo - Comune controllato: 
 	Castelvecchio Subequo
 Castelvecchio di Rocca Barbena - Comune non indipendente, controllore: Erli
-Castelvenere - Comune controllato: 
+Castelvenere - Comuni controllati: 
 	Castelvenere
-Castelverde - Comune controllato: 
+	Guardia Sanframondi
+Castelverde - Comuni controllati: 
 	Castelverde
+	Pozzaglio ed Uniti
 Castelverrino - Comuni controllati: 
 	Castelverrino
 	Pietrabbondante
@@ -3608,6 +3596,7 @@ Castiglione dei Pepoli - Comune non indipendente, controllore: Firenzuola
 Castiglione del Genovesi - Comuni controllati: 
 	Castiglione del Genovesi
 	San Mango Piemonte
+	San Cipriano Picentino
 Castiglione del Lago - Comune non indipendente, controllore: Panicale
 Castiglione della Pescaia - Comune non indipendente, controllore: Grosseto
 Castiglione delle Stiviere - Comune controllato: 
@@ -3629,7 +3618,6 @@ Castions di Strada - Comune controllato:
 	Castions di Strada
 Castiraga Vidardo - Comuni controllati: 
 	Castiraga Vidardo
-	Borgo San Giovanni
 	Pieve Fissiraga
 Casto - Comune non indipendente, controllore: Mura
 Castorano - Comune controllato: 
@@ -3652,8 +3640,9 @@ Castrocielo - Comune controllato:
 Castrofilippo - Comune non indipendente, controllore: Grotte
 Castrolibero - Comune controllato: 
 	Castrolibero
-Castronno - Comune controllato: 
+Castronno - Comuni controllati: 
 	Castronno
+	Brunello
 Castronovo di Sicilia - Comune controllato: 
 	Castronovo di Sicilia
 Castronuovo di Sant'Andrea - Comuni controllati: 
@@ -3664,8 +3653,7 @@ Castronuovo di Sant'Andrea - Comuni controllati:
 	Episcopia
 Castropignano - Comune controllato: 
 	Castropignano
-Castroreale - Comune controllato: 
-	Castroreale
+Castroreale - Comune non indipendente, controllore: Mazzarra' Sant'Andrea
 Castroregio - Comune non indipendente, controllore: Alessandria del Carretto
 Castrovillari - Comune controllato: 
 	Castrovillari
@@ -3717,8 +3705,9 @@ Cavallino-Treporti - Comuni controllati:
 	Venezia
 	Marcon
 Cavallirio - Comune non indipendente, controllore: Prato Sesia
-Cavareno - Comune controllato: 
+Cavareno - Comuni controllati: 
 	Cavareno
+	Amblar
 Cavargna - Comune controllato: 
 	Cavargna
 Cavaria con Premezzo - Comune non indipendente, controllore: Jerago con Orago
@@ -3779,6 +3768,7 @@ Cefalu' - Comuni controllati:
 	Gratteri
 	Lascari
 	Pollina
+	Castelbuono
 Ceggia - Comune controllato: 
 	Ceggia
 Ceglie Messapica - Comune controllato: 
@@ -3822,9 +3812,8 @@ Cellio - Comune non indipendente, controllore: Valduggia
 Cellole - Comune non indipendente, controllore: Sessa Aurunca
 Cembra - Comune controllato: 
 	Cembra
-Cenadi - Comuni controllati: 
+Cenadi - Comune controllato: 
 	Cenadi
-	San Vito sullo Ionio
 Cenate Sopra - Comuni controllati: 
 	Cenate Sopra
 	Cenate Sotto
@@ -3834,8 +3823,9 @@ Cenate Sotto - Comune non indipendente, controllore: Cenate Sopra
 Cencenighe Agordino - Comune non indipendente, controllore: Taibon Agordino
 Cene - Comune controllato: 
 	Cene
-Ceneselli - Comune controllato: 
+Ceneselli - Comuni controllati: 
 	Ceneselli
+	Calto
 Cengio - Comune non indipendente, controllore: Camerana
 Centa San Nicolo' - Comune controllato: 
 	Centa San Nicolo'
@@ -3878,17 +3868,16 @@ Cerchiara di Calabria - Comune controllato:
 Cerchio - Comuni controllati: 
 	Cerchio
 	Aielli
-Cercino - Comune controllato: 
+Cercino - Comuni controllati: 
 	Cercino
+	Cino
 Cercivento - Comune non indipendente, controllore: Paluzza
 Cercola - Comune non indipendente, controllore: Volla
 Cerda - Comune controllato: 
 	Cerda
-Cerea - Comuni controllati: 
+Cerea - Comune controllato: 
 	Cerea
-	Casaleone
-Ceregnano - Comune controllato: 
-	Villadose
+Ceregnano - Comune non indipendente, controllore: Crespino
 Cerenzia - Comune non indipendente, controllore: Castelsilano
 Ceres - Comune controllato: 
 	Mezzenile
@@ -3928,8 +3917,7 @@ Cernusco Lombardone - Comuni controllati:
 Cernusco sul Naviglio - Comune controllato: 
 	Cernusco sul Naviglio
 Cerreto Castello - Comune non indipendente, controllore: Valdengo
-Cerreto Grue - Comune controllato: 
-	Cerreto Grue
+Cerreto Grue - Comune non indipendente, controllore: Montegioco
 Cerreto Guidi - Comuni controllati: 
 	Cerreto Guidi
 	Vinci
@@ -4088,8 +4076,9 @@ Chiaramonti - Comune controllato:
 Chiarano - Comune controllato: 
 	Chiarano
 Chiaravalle - Comune non indipendente, controllore: Falconara Marittima
-Chiaravalle Centrale - Comune controllato: 
+Chiaravalle Centrale - Comuni controllati: 
 	Chiaravalle Centrale
+	San Vito sullo Ionio
 Chiari - Comune controllato: 
 	Chiari
 Chiaromonte - Comune non indipendente, controllore: San Costantino Albanese
@@ -4107,15 +4096,13 @@ Chienes - Comune controllato:
 	Chienes
 Chieri - Comune controllato: 
 	Chieri
-Chies d'Alpago - Comuni controllati: 
+Chies d'Alpago - Comune controllato: 
 	Chies d'Alpago
-	Pieve d'Alpago
 Chiesa in Valmalenco - Comune controllato: 
 	Chiesa in Valmalenco
 Chiesanuova - Comune controllato: 
 	Chiesanuova
-Chiesina Uzzanese - Comune controllato: 
-	Chiesina Uzzanese
+Chiesina Uzzanese - Comune non indipendente, controllore: Montecarlo
 Chieti - Comuni controllati: 
 	Chieti
 	Cepagatti
@@ -4180,8 +4167,7 @@ Cibiana di Cadore - Comune controllato:
 	Cibiana di Cadore
 Cicagna - Comune controllato: 
 	Cicagna
-Cicala - Comune controllato: 
-	Cicala
+Cicala - Comune non indipendente, controllore: Sorbo San Basile
 Cicciano - Comune non indipendente, controllore: Cimitile
 Cicerale - Comune controllato: 
 	Cicerale
@@ -4189,8 +4175,7 @@ Ciciliano - Comune controllato:
 	Ciciliano
 Cicognolo - Comune controllato: 
 	Cicognolo
-Ciconio - Comuni controllati: 
-	Ciconio
+Ciconio - Comune controllato: 
 	Ozegna
 Cigliano - Comuni controllati: 
 	Cigliano
@@ -4226,8 +4211,7 @@ Cinigiano - Comune controllato:
 Cinisello Balsamo - Comune controllato: 
 	Cinisello Balsamo
 Cinisi - Comune non indipendente, controllore: Carini
-Cino - Comune controllato: 
-	Cino
+Cino - Comune non indipendente, controllore: Cercino
 Cinquefrondi - Comune non indipendente, controllore: Cittanova
 Cintano - Comune non indipendente, controllore: Colleretto Castelnuovo
 Cinte Tesino - Comune controllato: 
@@ -4240,6 +4224,7 @@ Cinto Euganeo - Comuni controllati:
 	Baone
 	Vo'
 	Lozzo Atestino
+	Arqua' Petrarca
 Cinzano - Comune non indipendente, controllore: Berzano di San Pietro
 Ciorlano - Comune controllato: 
 	Ciorlano
@@ -4283,8 +4268,7 @@ Cisternino - Comune controllato:
 	Cisternino
 Citerna - Comune controllato: 
 	Citerna
-Citta' Sant'Angelo - Comune controllato: 
-	Citta' Sant'Angelo
+Citta' Sant'Angelo - Comune non indipendente, controllore: Silvi
 Citta' della Pieve - Comuni controllati: 
 	Monteleone d'Orvieto
 	Cetona
@@ -4309,6 +4293,7 @@ Civezza - Comune controllato:
 Civezzano - Comuni controllati: 
 	Civezzano
 	Fornace
+	Albiano
 Civiasco - Comune controllato: 
 	Civiasco
 Cividale del Friuli - Comune controllato: 
@@ -4360,7 +4345,7 @@ Civitella in Val di Chiana - Comune controllato:
 	Civitella in Val di Chiana
 Civo - Comune controllato: 
 	Civo
-Claino con Osteno - Comune non indipendente, controllore: Laino
+Claino con Osteno - Comune non indipendente, controllore: Porlezza
 Claut - Comune controllato: 
 	Claut
 Clauzetto - Comune non indipendente, controllore: Tramonti di Sotto
@@ -4383,8 +4368,9 @@ Coassolo Torinese - Comune controllato:
 	Coassolo Torinese
 Coazze - Comune controllato: 
 	Coazze
-Coazzolo - Comune controllato: 
+Coazzolo - Comuni controllati: 
 	Coazzolo
+	Neive
 Coccaglio - Comuni controllati: 
 	Coccaglio
 	Rovato
@@ -4399,8 +4385,9 @@ Codevigo - Comune non indipendente, controllore: Chioggia
 Codevilla - Comune controllato: 
 	Retorbido
 Codigoro - Comune non indipendente, controllore: Ariano nel Polesine
-Codogne' - Comune controllato: 
+Codogne' - Comuni controllati: 
 	Codogne'
+	Godega di Sant'Urbano
 Codogno - Comune controllato: 
 	Codogno
 Codroipo - Comune controllato: 
@@ -4462,8 +4449,7 @@ Colledimacine - Comune non indipendente, controllore: Lettopalena
 Colledimezzo - Comune controllato: 
 	Colledimezzo
 Colleferro - Comune non indipendente, controllore: Segni
-Collegiove - Comuni controllati: 
-	Paganico Sabino
+Collegiove - Comune controllato: 
 	Collalto Sabino
 Collegno - Comuni controllati: 
 	Collegno
@@ -4483,6 +4469,7 @@ Collepietro - Comuni controllati:
 Colleretto Castelnuovo - Comuni controllati: 
 	Colleretto Castelnuovo
 	Cintano
+	Borgiallo
 Colleretto Giacosa - Comune controllato: 
 	Colleretto Giacosa
 Collesalvetti - Comune controllato: 
@@ -4495,8 +4482,9 @@ Collevecchio - Comuni controllati:
 	Collevecchio
 	Stimigliano
 	Tarano
-Colli a Volturno - Comune controllato: 
+Colli a Volturno - Comuni controllati: 
 	Colli a Volturno
+	Fornelli
 Colli del Tronto - Comuni controllati: 
 	Colli del Tronto
 	Spinetoli
@@ -4531,8 +4519,9 @@ Colonno - Comune controllato:
 	Colonno
 Colorina - Comune controllato: 
 	Colorina
-Colorno - Comune controllato: 
+Colorno - Comuni controllati: 
 	Colorno
+	Torrile
 Colosimi - Comune controllato: 
 	Colosimi
 Colturano - Comuni controllati: 
@@ -4545,8 +4534,9 @@ Comacchio - Comuni controllati:
 	Comacchio
 	Lagosanto
 	Massa Fiscaglia
-Comano - Comune controllato: 
+Comano - Comuni controllati: 
 	Comano
+	Licciana Nardi
 Comano Terme - Comune controllato: 
 	Comano Terme
 Comazzo - Comune controllato: 
@@ -4577,8 +4567,7 @@ Comunanza - Comune non indipendente, controllore: Palmiano
 Cona - Comune controllato: 
 	Cona
 Conca Casale - Comune non indipendente, controllore: Acquafondata
-Conca dei Marini - Comune controllato: 
-	Conca dei Marini
+Conca dei Marini - Comune non indipendente, controllore: Agerola
 Conca della Campania - Comune controllato: 
 	Conca della Campania
 Concamarise - Comune non indipendente, controllore: Sanguinetto
@@ -4604,6 +4593,7 @@ Condino - Comuni controllati:
 	Castel Condino
 	Cimego
 	Prezzo
+	Bersone
 Condofuri - Comune non indipendente, controllore: San Lorenzo
 Condove - Comuni controllati: 
 	Condove
@@ -4696,8 +4686,7 @@ Cormano - Comune controllato:
 	Cormano
 Cormons - Comune controllato: 
 	Cormons
-Corna Imagna - Comune controllato: 
-	Corna Imagna
+Corna Imagna - Comune non indipendente, controllore: Blello
 Cornalba - Comune controllato: 
 	Cornalba
 Cornale - Comune non indipendente, controllore: Molino dei Torti
@@ -4728,7 +4717,7 @@ Correzzana - Comune controllato:
 	Correzzana
 Correzzola - Comune controllato: 
 	Correzzola
-Corrido - Comune non indipendente, controllore: Val Rezzo
+Corrido - Comune non indipendente, controllore: Carlazzo
 Corridonia - Comuni controllati: 
 	Corridonia
 	Petriolo
@@ -4783,8 +4772,7 @@ Cortona - Comuni controllati:
 	Cortona
 	Tuoro sul Trasimeno
 Corvara - Comune non indipendente, controllore: Brittoli
-Corvara in Badia - Comune controllato: 
-	Corvara in Badia
+Corvara in Badia - Comune non indipendente, controllore: Santa Cristina Valgardena
 Corvino San Quirico - Comune non indipendente, controllore: Torricella Verzate
 Corzano - Comune controllato: 
 	Corzano
@@ -4845,17 +4833,15 @@ Costabissara - Comuni controllati:
 Costacciaro - Comune non indipendente, controllore: Scheggia e Pascelupo
 Costanzana - Comune controllato: 
 	Costanzana
-Costarainera - Comune controllato: 
-	Costarainera
+Costarainera - Comune non indipendente, controllore: San Lorenzo al Mare
 Costermano - Comune controllato: 
 	Costermano
 Costigliole Saluzzo - Comune controllato: 
 	Costigliole Saluzzo
 Costigliole d'Asti - Comune controllato: 
 	Costigliole d'Asti
-Cotignola - Comuni controllati: 
+Cotignola - Comune controllato: 
 	Cotignola
-	Bagnara di Romagna
 Cotronei - Comune controllato: 
 	Cotronei
 Cottanello - Comune controllato: 
@@ -4912,11 +4898,11 @@ Crespino - Comuni controllati:
 	Ceregnano
 	Gavello
 	Villanova Marchesana
+	Villadose
 Cressa - Comune controllato: 
 	Cressa
-Crevacuore - Comuni controllati: 
+Crevacuore - Comune controllato: 
 	Crevacuore
-	Ailoche
 Crevalcore - Comune controllato: 
 	Crevalcore
 Crevoladossola - Comuni controllati: 
@@ -4954,18 +4940,19 @@ Crotta d'Adda - Comuni controllati:
 Crova - Comune non indipendente, controllore: San Germano Vercellese
 Croviana - Comune controllato: 
 	Croviana
-Crucoli - Comune controllato: 
+Crucoli - Comuni controllati: 
 	Crucoli
+	Terravecchia
 Cuasso al Monte - Comune controllato: 
 	Cuasso al Monte
 Cuccaro Monferrato - Comune non indipendente, controllore: Fubine
 Cuccaro Vetere - Comune non indipendente, controllore: Cannalonga
-Cucciago - Comune controllato: 
-	Cucciago
+Cucciago - Comune non indipendente, controllore: Vertemate con Minoprio
 Cuceglio - Comuni controllati: 
 	Cuceglio
 	Vialfre'
 	San Martino Canavese
+	Scarmagno
 Cuggiono - Comune controllato: 
 	Cuggiono
 Cugliate-Fabiasco - Comune controllato: 
@@ -5002,8 +4989,10 @@ Curcuris - Comune controllato:
 Cureggio - Comune non indipendente, controllore: Fontaneto d'Agogna
 Curiglia con Monteviasco - Comune controllato: 
 	Curiglia con Monteviasco
-Curinga - Comune controllato: 
+Curinga - Comuni controllati: 
 	Curinga
+	San Pietro a Maida
+	Jacurso
 Curino - Comuni controllati: 
 	Curino
 	Soprana
@@ -5068,6 +5057,7 @@ Davagna - Comuni controllati:
 Daverio - Comuni controllati: 
 	Daverio
 	Crosio della Valle
+	Galliate Lombardo
 Davoli - Comune non indipendente, controllore: Satriano
 Dazio - Comune non indipendente, controllore: Talamona
 Decimomannu - Comune non indipendente, controllore: Uta
@@ -5083,8 +5073,9 @@ Delianuova - Comuni controllati:
 	Delianuova
 	Cosoleto
 Deliceto - Comune non indipendente, controllore: Bovino
-Dello - Comune controllato: 
+Dello - Comuni controllati: 
 	Dello
+	Longhena
 Demonte - Comune controllato: 
 	Demonte
 Denice - Comune controllato: 
@@ -5126,6 +5117,7 @@ Dimaro - Comuni controllati:
 	Dimaro
 	Monclassico
 Dinami - Comuni controllati: 
+	Dinami
 	Dasa'
 	Gerocarne
 Dipignano - Comune non indipendente, controllore: Carolei
@@ -5183,6 +5175,7 @@ Donnas - Comuni controllati:
 	Donnas
 	Hone
 	Bard
+	Arnad
 Donori - Comune controllato: 
 	Donori
 Dorgali - Comune non indipendente, controllore: Oliena
@@ -5296,8 +5289,7 @@ Erbezzo - Comuni controllati:
 	Erbezzo
 	Bosco Chiesanuova
 Erbusco - Comune non indipendente, controllore: Adro
-Erchie - Comune controllato: 
-	Erchie
+Erchie - Comune non indipendente, controllore: Avetrana
 Ercolano - Comune controllato: 
 	Ercolano
 Erice - Comune non indipendente, controllore: Valderice
@@ -5309,6 +5301,7 @@ Erto e Casso - Comuni controllati:
 	Castellavazzo
 	Soverzene
 	Ospitale di Cadore
+	Pieve d'Alpago
 Erula - Comune non indipendente, controllore: Tula
 Erve - Comune controllato: 
 	Erve
@@ -5333,8 +5326,7 @@ Etroubles - Comune controllato:
 Eupilio - Comuni controllati: 
 	Eupilio
 	Longone al Segrino
-Exilles - Comuni controllati: 
-	Exilles
+Exilles - Comune controllato: 
 	Chiomonte
 Fabbrica Curone - Comune controllato: 
 	Fabbrica Curone
@@ -5382,8 +5374,7 @@ Falconara Marittima - Comuni controllati:
 	Falconara Marittima
 	Chiaravalle
 Falcone - Comune non indipendente, controllore: Oliveri
-Faleria - Comune controllato: 
-	Faleria
+Faleria - Comune non indipendente, controllore: Nepi
 Falerna - Comuni controllati: 
 	Falerna
 	Nocera Terinese
@@ -5469,10 +5460,10 @@ Felitto - Comuni controllati:
 	Magliano Vetere
 Felizzano - Comune controllato: 
 	Felizzano
-Felonica - Comune controllato: 
-	Felonica
-Feltre - Comune controllato: 
+Felonica - Comune non indipendente, controllore: Bondeno
+Feltre - Comuni controllati: 
 	Feltre
+	Pedavena
 Fenegro' - Comuni controllati: 
 	Fenegro'
 	Cirimido
@@ -5536,7 +5527,7 @@ Fiesole - Comune non indipendente, controllore: Pontassieve
 Fiesse - Comune non indipendente, controllore: Gambara
 Fiesso Umbertiano - Comune non indipendente, controllore: Pincara
 Fiesso d'Artico - Comune non indipendente, controllore: Dolo
-Figino Serenza - Comune non indipendente, controllore: Carimate
+Figino Serenza - Comune non indipendente, controllore: Novedrate
 Figline Valdarno - Comuni controllati: 
 	Figline Valdarno
 	Incisa in Val d'Arno
@@ -5593,12 +5584,10 @@ Firenze - Comune controllato:
 Firenzuola - Comuni controllati: 
 	Firenzuola
 	Monghidoro
-	San Benedetto Val di Sambro
 	Castiglione dei Pepoli
 Firmo - Comune controllato: 
 	Firmo
-Fisciano - Comune controllato: 
-	Fisciano
+Fisciano - Comune non indipendente, controllore: Calvanico
 Fiuggi - Comuni controllati: 
 	Fiuggi
 	Torre Cajetani
@@ -5627,20 +5616,19 @@ Fiuminata - Comune non indipendente, controllore: Sefro
 Fivizzano - Comuni controllati: 
 	Fivizzano
 	Casola in Lunigiana
-	Minucciano
 	Giuncugnano
-	Licciana Nardi
 	Piazza al Serchio
 Flaibano - Comune controllato: 
 	Flaibano
 Flavon - Comune non indipendente, controllore: Terres
-Flero - Comune non indipendente, controllore: Poncarale
+Flero - Comune non indipendente, controllore: Castel Mella
 Floresta - Comune controllato: 
 	Floresta
 Floridia - Comune non indipendente, controllore: Solarino
 Florinas - Comune non indipendente, controllore: Codrongianos
-Flumeri - Comune controllato: 
+Flumeri - Comuni controllati: 
 	Flumeri
+	Villanova del Battista
 Fluminimaggiore - Comuni controllati: 
 	Fluminimaggiore
 	Buggerru
@@ -5717,6 +5705,7 @@ Fontechiari - Comune controllato:
 Fontegreca - Comuni controllati: 
 	Fontegreca
 	Prata Sannita
+	Gallo Matese
 Fonteno - Comune controllato: 
 	Fonteno
 Fontevivo - Comuni controllati: 
@@ -5741,7 +5730,6 @@ Forenza - Comune non indipendente, controllore: Venosa
 Foresto Sparso - Comune controllato: 
 	Foresto Sparso
 Forgaria nel Friuli - Comuni controllati: 
-	Forgaria nel Friuli
 	Ragogna
 	Osoppo
 Forino - Comuni controllati: 
@@ -5760,18 +5748,18 @@ Formello - Comune controllato:
 	Formello
 Formia - Comune controllato: 
 	Formia
-Formicola - Comune controllato: 
+Formicola - Comuni controllati: 
 	Formicola
+	Giano Vetusto
 Formigara - Comune non indipendente, controllore: Gombito
 Formigine - Comune controllato: 
 	Formigine
-Formigliana - Comune controllato: 
+Formigliana - Comuni controllati: 
 	Formigliana
+	Balocco
 Formignana - Comune non indipendente, controllore: Copparo
-Fornace - Comune controllato: 
-	Albiano
-Fornelli - Comune controllato: 
-	Fornelli
+Fornace - Comune non indipendente, controllore: Civezzano
+Fornelli - Comune non indipendente, controllore: Colli a Volturno
 Forni Avoltri - Comune controllato: 
 	Forni Avoltri
 Forni di Sopra - Comune controllato: 
@@ -5837,7 +5825,7 @@ Fragneto Monforte - Comune controllato:
 	Fragneto Monforte
 Fragneto l'Abate - Comune controllato: 
 	Fragneto l'Abate
-Fraine - Comune non indipendente, controllore: Carunchio
+Fraine - Comune non indipendente, controllore: Roccaspinalveti
 Framura - Comune non indipendente, controllore: Levanto
 Francavilla Angitola - Comuni controllati: 
 	Francavilla Angitola
@@ -5860,7 +5848,6 @@ Francica - Comune controllato:
 	Francica
 Francofonte - Comuni controllati: 
 	Francofonte
-	Buccheri
 	Ferla
 Francolise - Comuni controllati: 
 	Francolise
@@ -5870,15 +5857,16 @@ Frascaro - Comuni controllati:
 	Borgoratto Alessandrino
 	Carentino
 	Bergamasco
-Frascarolo - Comune controllato: 
+Frascarolo - Comuni controllati: 
 	Frascarolo
-Frascati - Comuni controllati: 
+	Torre Beretti e Castellaro
+Frascati - Comune controllato: 
 	Frascati
-	Monte Porzio Catone
 Frascineto - Comune controllato: 
 	Frascineto
-Frassilongo - Comune controllato: 
+Frassilongo - Comuni controllati: 
 	Frassilongo
+	Vignola-Falesina
 Frassinelle Polesine - Comune non indipendente, controllore: Polesella
 Frassinello Monferrato - Comuni controllati: 
 	Frassinello Monferrato
@@ -5913,6 +5901,7 @@ Frazzano' - Comuni controllati:
 	Frazzano'
 	Mirto
 	Capri Leone
+	Naso
 Fregona - Comune controllato: 
 	Fregona
 Fresagrandinaria - Comune controllato: 
@@ -5921,9 +5910,8 @@ Fresonara - Comune non indipendente, controllore: Bosco Marengo
 Frigento - Comuni controllati: 
 	Frigento
 	Sturno
-Frignano - Comuni controllati: 
+Frignano - Comune controllato: 
 	Frignano
-	Casaluce
 Frinco - Comune non indipendente, controllore: Castell'Alfero
 Frisa - Comune controllato: 
 	Frisa
@@ -5931,8 +5919,7 @@ Frisanco - Comuni controllati:
 	Frisanco
 	Andreis
 Front - Comune non indipendente, controllore: Rivarossa
-Frontino - Comune controllato: 
-	Frontino
+Frontino - Comune non indipendente, controllore: Pietrarubbia
 Frontone - Comuni controllati: 
 	Frontone
 	Serra Sant'Abbondio
@@ -5957,6 +5944,7 @@ Fumone - Comune non indipendente, controllore: Ferentino
 Funes - Comuni controllati: 
 	Funes
 	Ortisei
+	Bressanone
 Furci - Comuni controllati: 
 	Furci
 	Gissi
@@ -5979,8 +5967,7 @@ Gabicce Mare - Comune non indipendente, controllore: Cattolica
 Gaby - Comune controllato: 
 	Gaby
 Gadesco-Pieve Delmona - Comune non indipendente, controllore: Persico Dosimo
-Gadoni - Comune controllato: 
-	Gadoni
+Gadoni - Comune non indipendente, controllore: Seulo
 Gaeta - Comune controllato: 
 	Gaeta
 Gaggi - Comune controllato: 
@@ -6007,9 +5994,8 @@ Gagliano del Capo - Comuni controllati:
 Gagliato - Comune controllato: 
 	Gagliato
 Gagliole - Comune non indipendente, controllore: Castelraimondo
-Gaiarine - Comuni controllati: 
+Gaiarine - Comune controllato: 
 	Gaiarine
-	Brugnera
 Gaiba - Comune controllato: 
 	Gaiba
 Gaiola - Comune non indipendente, controllore: Roccasparvera
@@ -6039,10 +6025,10 @@ Gallarate - Comuni controllati:
 	Fagnano Olona
 	Cairate
 Gallese - Comune non indipendente, controllore: Carbognano
-Galliate - Comune controllato: 
+Galliate - Comuni controllati: 
 	Galliate
-Galliate Lombardo - Comune controllato: 
-	Galliate Lombardo
+	Romentino
+Galliate Lombardo - Comune non indipendente, controllore: Daverio
 Galliavola - Comune non indipendente, controllore: Pieve del Cairo
 Gallicano - Comune non indipendente, controllore: Fabbriche di Vallico
 Gallicano nel Lazio - Comune controllato: 
@@ -6058,8 +6044,7 @@ Gallio - Comune controllato:
 	Gallio
 Gallipoli - Comune controllato: 
 	Gallipoli
-Gallo Matese - Comune controllato: 
-	Gallo Matese
+Gallo Matese - Comune non indipendente, controllore: Fontegreca
 Gallodoro - Comune controllato: 
 	Letojanni
 Galluccio - Comune controllato: 
@@ -6138,13 +6123,15 @@ Gattatico - Comune controllato:
 Gatteo - Comune non indipendente, controllore: Gambettola
 Gattico - Comune non indipendente, controllore: Dormelletto
 Gattinara - Comune non indipendente, controllore: Lozzolo
-Gavardo - Comune controllato: 
+Gavardo - Comuni controllati: 
 	Gavardo
+	Villanuova sul Clisi
 Gavazzana - Comune controllato: 
 	Cassano Spinola
 Gavello - Comune non indipendente, controllore: Crespino
-Gaverina Terme - Comune controllato: 
+Gaverina Terme - Comuni controllati: 
 	Gaverina Terme
+	Bianzano
 Gavi - Comune controllato: 
 	Gavi
 Gavignano - Comune controllato: 
@@ -6173,6 +6160,7 @@ Gazzuolo - Comuni controllati:
 	Gazzuolo
 	Commessaggio
 	San Martino dall'Argine
+	Bozzolo
 Gela - Comune controllato: 
 	Gela
 Gemmano - Comuni controllati: 
@@ -6181,6 +6169,7 @@ Gemmano - Comuni controllati:
 Gemona del Friuli - Comuni controllati: 
 	Gemona del Friuli
 	Montenars
+	Artegna
 Gemonio - Comune non indipendente, controllore: Azzio
 Genazzano - Comune non indipendente, controllore: Paliano
 Genga - Comune controllato: 
@@ -6257,8 +6246,7 @@ Giaglione - Comune controllato:
 	Giaglione
 Gianico - Comune controllato: 
 	Gianico
-Giano Vetusto - Comune controllato: 
-	Giano Vetusto
+Giano Vetusto - Comune non indipendente, controllore: Formicola
 Giano dell'Umbria - Comuni controllati: 
 	Giano dell'Umbria
 	Castel Ritaldi
@@ -6280,7 +6268,7 @@ Giavera del Montello - Comune controllato:
 Giba - Comune controllato: 
 	Giba
 Gibellina - Comune non indipendente, controllore: Poggioreale
-Gifflenga - Comune non indipendente, controllore: Castelletto Cervo
+Gifflenga - Comune non indipendente, controllore: Buronzo
 Giffone - Comune controllato: 
 	Giffone
 Giffoni Sei Casali - Comune controllato: 
@@ -6320,8 +6308,9 @@ Giovo - Comune non indipendente, controllore: Lisignago
 Girasole - Comune non indipendente, controllore: Lotzorai
 Girifalco - Comune controllato: 
 	Amaroni
-Gironico - Comune controllato: 
+Gironico - Comuni controllati: 
 	Gironico
+	Pare'
 Gissi - Comune non indipendente, controllore: Furci
 Giuggianello - Comune non indipendente, controllore: Minervino di Lecce
 Giugliano in Campania - Comuni controllati: 
@@ -6356,8 +6345,7 @@ Gizzeria - Comune controllato:
 	Gizzeria
 Glorenza - Comune controllato: 
 	Glorenza
-Godega di Sant'Urbano - Comune controllato: 
-	Godega di Sant'Urbano
+Godega di Sant'Urbano - Comune non indipendente, controllore: Codogne'
 Godiasco - Comune controllato: 
 	Godiasco
 Godrano - Comune controllato: 
@@ -6385,8 +6373,7 @@ Gonnosfanadiga - Comune controllato:
 	Gonnosfanadiga
 Gonnosno' - Comune controllato: 
 	Gonnosno'
-Gonnostramatza - Comune controllato: 
-	Gonnostramatza
+Gonnostramatza - Comune non indipendente, controllore: San Gavino Monreale
 Gonzaga - Comune non indipendente, controllore: Pegognaga
 Gordona - Comune controllato: 
 	Gordona
@@ -6413,8 +6400,9 @@ Gorreto - Comune controllato:
 	Gorreto
 Gorzegno - Comune controllato: 
 	Gorzegno
-Gosaldo - Comune controllato: 
+Gosaldo - Comuni controllati: 
 	Gosaldo
+	Sagron Mis
 Gossolengo - Comune controllato: 
 	Gossolengo
 Gottasecca - Comune controllato: 
@@ -6444,7 +6432,7 @@ Graglia - Comune non indipendente, controllore: Sordevolo
 Gragnano - Comune non indipendente, controllore: Lettere
 Gragnano Trebbiense - Comune controllato: 
 	Gragnano Trebbiense
-Grammichele - Comune non indipendente, controllore: Mineo
+Grammichele - Comune non indipendente, controllore: Caltagirone
 Grana - Comuni controllati: 
 	Grana
 	Calliano
@@ -6452,7 +6440,8 @@ Grana - Comuni controllati:
 Granaglione - Comune controllato: 
 	Granaglione
 Granarolo dell'Emilia - Comune non indipendente, controllore: Castenaso
-Grancona - Comune non indipendente, controllore: Sarego
+Grancona - Comune controllato: 
+	Grancona
 Grandate - Comune controllato: 
 	Grandate
 Grandola ed Uniti - Comune non indipendente, controllore: Bene Lario
@@ -6468,8 +6457,7 @@ Grantorto - Comuni controllati:
 Granze - Comune controllato: 
 	Granze
 Grassano - Comune non indipendente, controllore: Irsina
-Grassobbio - Comune controllato: 
-	Grassobbio
+Grassobbio - Comune non indipendente, controllore: Zanica
 Gratteri - Comune non indipendente, controllore: Cefalu'
 Grauno - Comune controllato: 
 	Grauno
@@ -6514,8 +6502,7 @@ Gricignano di Aversa - Comuni controllati:
 	Gricignano di Aversa
 	Succivo
 	Carinaro
-Grignasco - Comune controllato: 
-	Grignasco
+Grignasco - Comune non indipendente, controllore: Prato Sesia
 Grigno - Comune controllato: 
 	Grigno
 Grimacco - Comuni controllati: 
@@ -6533,7 +6520,6 @@ Grizzana Morandi - Comuni controllati:
 Grognardo - Comuni controllati: 
 	Grognardo
 	Cavatore
-	Melazzo
 Gromo - Comune non indipendente, controllore: Gandellino
 Grondona - Comuni controllati: 
 	Grondona
@@ -6625,15 +6611,14 @@ Guarda Veneta - Comune non indipendente, controllore: Bosaro
 Guardabosone - Comune non indipendente, controllore: Quarona
 Guardamiglio - Comune non indipendente, controllore: San Rocco al Porto
 Guardavalle - Comune non indipendente, controllore: Santa Caterina dello Ionio
-Guardea - Comune controllato: 
-	Guardea
+Guardea - Comune non indipendente, controllore: Amelia
 Guardia Lombardi - Comune controllato: 
 	Guardia Lombardi
 Guardia Perticara - Comune non indipendente, controllore: Laurenzana
 Guardia Piemontese - Comuni controllati: 
 	Guardia Piemontese
 	Acquappesa
-Guardia Sanframondi - Comune non indipendente, controllore: San Lorenzo Maggiore
+Guardia Sanframondi - Comune non indipendente, controllore: Castelvenere
 Guardiagrele - Comune controllato: 
 	Guardiagrele
 Guardialfiera - Comune controllato: 
@@ -6698,6 +6683,7 @@ Impruneta - Comune controllato:
 Inarzo - Comuni controllati: 
 	Inarzo
 	Cazzago Brabbia
+	Bodio Lomnago
 Incisa Scapaccino - Comune non indipendente, controllore: Castelnuovo Belbo
 Incisa in Val d'Arno - Comune non indipendente, controllore: Figline Valdarno
 Incudine - Comuni controllati: 
@@ -6714,9 +6700,8 @@ Introbio - Comuni controllati:
 Introd - Comuni controllati: 
 	Introd
 	Villeneuve
-Introdacqua - Comuni controllati: 
+Introdacqua - Comune controllato: 
 	Introdacqua
-	Bugnara
 Introzzo - Comuni controllati: 
 	Introzzo
 	Sueglio
@@ -6742,7 +6727,7 @@ Irsina - Comuni controllati:
 	Grassano
 Isasca - Comune controllato: 
 	Isasca
-Isca sullo Ionio - Comune non indipendente, controllore: Sant'Andrea Apostolo dello Ionio
+Isca sullo Ionio - Comune non indipendente, controllore: Santa Caterina dello Ionio
 Ischia - Comune controllato: 
 	Ischia
 Ischia di Castro - Comune non indipendente, controllore: Pitigliano
@@ -6770,13 +6755,12 @@ Isola del Giglio - Comune controllato:
 	Isola del Giglio
 Isola del Gran Sasso d'Italia - Comune controllato: 
 	Isola del Gran Sasso d'Italia
-Isola del Liri - Comune non indipendente, controllore: Castelliri
+Isola del Liri - Comune non indipendente, controllore: Sora
 Isola del Piano - Comune controllato: 
 	Isola del Piano
 Isola della Scala - Comune controllato: 
 	Isola della Scala
-Isola delle Femmine - Comune controllato: 
-	Isola delle Femmine
+Isola delle Femmine - Comune non indipendente, controllore: Capaci
 Isola di Capo Rizzuto - Comune non indipendente, controllore: Cutro
 Isola di Fondra - Comune non indipendente, controllore: Carona
 Isolabella - Comune non indipendente, controllore: Poirino
@@ -6787,7 +6771,7 @@ Isolabona - Comuni controllati:
 Isole Tremiti - Comune controllato: 
 	Isole Tremiti
 Isorella - Comune non indipendente, controllore: Gottolengo
-Ispani - Comune non indipendente, controllore: Santa Marina
+Ispani - Comune non indipendente, controllore: Sapri
 Ispica - Comune controllato: 
 	Ispica
 Ispra - Comune controllato: 
@@ -6818,8 +6802,7 @@ Ivano-Fracena - Comuni controllati:
 Ivrea - Comune controllato: 
 	Ivrea
 Izano - Comune non indipendente, controllore: Salvirola
-Jacurso - Comune controllato: 
-	Jacurso
+Jacurso - Comune non indipendente, controllore: Curinga
 Jelsi - Comune controllato: 
 	Jelsi
 Jenne - Comune non indipendente, controllore: Vallepietra
@@ -6835,6 +6818,7 @@ Jesolo - Comuni controllati:
 	Jesolo
 	Eraclea
 	San Dona' di Piave
+	Noventa di Piave
 Jolanda di Savoia - Comuni controllati: 
 	Jolanda di Savoia
 	Berra
@@ -6904,20 +6888,21 @@ Lagonegro - Comune controllato:
 	Lagonegro
 Lagosanto - Comune non indipendente, controllore: Comacchio
 Lagundo - Comune non indipendente, controllore: Parcines
-Laigueglia - Comune controllato: 
+Laigueglia - Comuni controllati: 
 	Laigueglia
+	Andora
 Lainate - Comune controllato: 
 	Lainate
 Laino - Comuni controllati: 
 	Laino
 	Ponna
-	Claino con Osteno
 Laino Borgo - Comune controllato: 
 	Laino Borgo
 Laino Castello - Comune controllato: 
 	Laino Castello
-Laion - Comune controllato: 
+Laion - Comuni controllati: 
 	Laion
+	Ponte Gardena
 Laives - Comune non indipendente, controllore: Bolzano
 Lajatico - Comune controllato: 
 	Lajatico
@@ -6963,15 +6948,14 @@ Lanzo d'Intelvi - Comune controllato:
 	Lanzo d'Intelvi
 Lapedona - Comune controllato: 
 	Altidona
-Lapio - Comune controllato: 
-	Lapio
+Lapio - Comune non indipendente, controllore: San Mango sul Calore
 Lappano - Comune non indipendente, controllore: Castiglione Cosentino
 Larciano - Comuni controllati: 
 	Lamporecchio
 	Quarrata
 Lardaro - Comune controllato: 
 	Lardaro
-Lardirago - Comune non indipendente, controllore: Roncaro
+Lardirago - Comune non indipendente, controllore: Sant'Alessio con Vialone
 Lari - Comuni controllati: 
 	Lari
 	Crespina
@@ -7004,8 +6988,7 @@ Latiano - Comune controllato:
 Latina - Comuni controllati: 
 	Latina
 	Sermoneta
-Latisana - Comune controllato: 
-	Latisana
+Latisana - Comune non indipendente, controllore: Palazzolo dello Stella
 Latronico - Comune controllato: 
 	Latronico
 Lattarico - Comune controllato: 
@@ -7068,9 +7051,8 @@ Lecco - Comuni controllati:
 	Malgrate
 Ledro - Comune controllato: 
 	Ledro
-Leffe - Comuni controllati: 
+Leffe - Comune controllato: 
 	Leffe
-	Bianzano
 Leggiuno - Comune non indipendente, controllore: Monvalle
 Legnago - Comuni controllati: 
 	Legnago
@@ -7180,7 +7162,7 @@ Librizzi - Comune controllato:
 	Librizzi
 Licata - Comune controllato: 
 	Licata
-Licciana Nardi - Comune non indipendente, controllore: Fivizzano
+Licciana Nardi - Comune non indipendente, controllore: Comano
 Licenza - Comune non indipendente, controllore: Percile
 Licodia Eubea - Comune controllato: 
 	Licodia Eubea
@@ -7270,8 +7252,7 @@ Locana - Comuni controllati:
 Locate Varesino - Comune controllato: 
 	Locate Varesino
 Locate di Triulzi - Comune non indipendente, controllore: Opera
-Locatello - Comune controllato: 
-	Locatello
+Locatello - Comune non indipendente, controllore: Blello
 Loceri - Comuni controllati: 
 	Loceri
 	Lanusei
@@ -7281,22 +7262,23 @@ Locri - Comuni controllati:
 	Locri
 	Portigliola
 Loculi - Comune non indipendente, controllore: Lula
-Lode' - Comuni controllati: 
+Lode' - Comune controllato: 
 	Lode'
-	Torpe'
 Lodi - Comune controllato: 
 	Lodi
 Lodi Vecchio - Comuni controllati: 
 	Lodi Vecchio
 	Salerano sul Lambro
+	Borgo San Giovanni
 Lodine - Comune non indipendente, controllore: Mamoiada
 Lodrino - Comune controllato: 
 	Lodrino
 Lograto - Comuni controllati: 
 	Lograto
 	Maclodio
-Loiano - Comune controllato: 
+Loiano - Comuni controllati: 
 	Loiano
+	Monzuno
 Loiri Porto San Paolo - Comuni controllati: 
 	Loiri Porto San Paolo
 	San Teodoro
@@ -7330,7 +7312,6 @@ Longare - Comune controllato:
 Longarone - Comune controllato: 
 	Longarone
 Longhena - Comuni controllati: 
-	Longhena
 	Brandico
 	Mairano
 Longi - Comune controllato: 
@@ -7437,11 +7418,12 @@ Lumezzane - Comune controllato:
 	Lumezzane
 Lunamatrona - Comune non indipendente, controllore: Pauli Arbarei
 Lunano - Comune non indipendente, controllore: Piandimeleto
-Lungavilla - Comune controllato: 
+Lungavilla - Comuni controllati: 
 	Lungavilla
+	Pizzale
 Lungro - Comune controllato: 
 	Acquaformosa
-Luogosano - Comune non indipendente, controllore: San Mango sul Calore
+Luogosano - Comune non indipendente, controllore: Taurasi
 Luogosanto - Comune non indipendente, controllore: Santa Teresa Gallura
 Lupara - Comuni controllati: 
 	Lupara
@@ -7524,6 +7506,7 @@ Magasa - Comune controllato:
 	Magasa
 Magenta - Comuni controllati: 
 	Magenta
+	Boffalora sopra Ticino
 	Robecco sul Naviglio
 Maggiora - Comune controllato: 
 	Maggiora
@@ -7532,8 +7515,7 @@ Magione - Comuni controllati:
 	Magione
 	Corciano
 	Passignano sul Trasimeno
-Magisano - Comune controllato: 
-	Magisano
+Magisano - Comune non indipendente, controllore: Zagarise
 Magliano Alfieri - Comune non indipendente, controllore: Castagnito
 Magliano Alpi - Comune controllato: 
 	Magliano Alpi
@@ -7559,8 +7541,7 @@ Magnago - Comuni controllati:
 	Magnago
 	Vanzaghello
 Magnano - Comune non indipendente, controllore: Zubiena
-Magnano in Riviera - Comune controllato: 
-	Artegna
+Magnano in Riviera - Comune non indipendente, controllore: Tarcento
 Magomadas - Comune controllato: 
 	Magomadas
 Magre' sulla strada del vino - Comune non indipendente, controllore: Cortaccia sulla strada del vino
@@ -7577,8 +7558,7 @@ Maierato - Comuni controllati:
 Maiolati Spontini - Comuni controllati: 
 	Maiolati Spontini
 	Castelplanio
-Maiolo - Comune controllato: 
-	Maiolo
+Maiolo - Comune non indipendente, controllore: Talamello
 Maiori - Comune non indipendente, controllore: Vietri sul Mare
 Mairago - Comune non indipendente, controllore: Brembio
 Mairano - Comune non indipendente, controllore: Longhena
@@ -7651,8 +7631,7 @@ Mandatoriccio - Comune controllato:
 Mandela - Comuni controllati: 
 	Mandela
 	Cineto Romano
-Mandello Vitta - Comune controllato: 
-	Mandello Vitta
+Mandello Vitta - Comune non indipendente, controllore: Vicolungo
 Mandello del Lario - Comune controllato: 
 	Mandello del Lario
 Manduria - Comune controllato: 
@@ -7673,6 +7652,7 @@ Mangone - Comuni controllati:
 Maniace - Comuni controllati: 
 	Maniace
 	Bronte
+	San Teodoro
 Maniago - Comune non indipendente, controllore: Vajont
 Manocalzati - Comune controllato: 
 	Manocalzati
@@ -7752,8 +7732,7 @@ Marene - Comuni controllati:
 Mareno di Piave - Comune non indipendente, controllore: Santa Lucia di Piave
 Marentino - Comune controllato: 
 	Marentino
-Maretto - Comune controllato: 
-	Maretto
+Maretto - Comune non indipendente, controllore: Roatto
 Margarita - Comune non indipendente, controllore: Beinette
 Margherita di Savoia - Comuni controllati: 
 	Margherita di Savoia
@@ -7860,16 +7839,14 @@ Masainas - Comune controllato:
 Masate - Comune controllato: 
 	Masate
 Mascali - Comune non indipendente, controllore: Santa Venerina
-Mascalucia - Comune controllato: 
-	Mascalucia
+Mascalucia - Comune non indipendente, controllore: San Pietro Clarenza
 Maschito - Comune non indipendente, controllore: Venosa
 Masciago Primo - Comune non indipendente, controllore: Bedero Valcuvia
 Maser - Comune controllato: 
 	Maser
 Masera - Comune controllato: 
 	Masera
-Masera' di Padova - Comune controllato: 
-	Casalserugo
+Masera' di Padova - Comune non indipendente, controllore: Cartura
 Maserada sul Piave - Comune controllato: 
 	Maserada sul Piave
 Masi - Comuni controllati: 
@@ -7882,8 +7859,7 @@ Masio - Comune controllato:
 	Masio
 Maslianico - Comune controllato: 
 	Maslianico
-Mason Vicentino - Comune controllato: 
-	Pianezze
+Mason Vicentino - Comune non indipendente, controllore: Pozzoleone
 Masone - Comuni controllati: 
 	Masone
 	Campo Ligure
@@ -7906,7 +7882,7 @@ Massa e Cozzile - Comune non indipendente, controllore: Marliana
 Massafra - Comune non indipendente, controllore: Castellaneta
 Massalengo - Comune non indipendente, controllore: Cornegliano Laudense
 Massanzago - Comune controllato: 
-	Massanzago
+	Borgoricco
 Massarosa - Comune controllato: 
 	Massarosa
 Massazza - Comuni controllati: 
@@ -7938,6 +7914,7 @@ Matino - Comune non indipendente, controllore: Casarano
 Matrice - Comune controllato: 
 	Matrice
 Mattie - Comuni controllati: 
+	Mattie
 	Meana di Susa
 	Gravere
 Mattinata - Comuni controllati: 
@@ -7954,6 +7931,7 @@ Mazzarino - Comune controllato:
 Mazzarra' Sant'Andrea - Comuni controllati: 
 	Mazzarra' Sant'Andrea
 	Furnari
+	Castroreale
 	Rodi' Milici
 Mazzarrone - Comune non indipendente, controllore: Chiaramonte Gulfi
 Mazze' - Comune non indipendente, controllore: Villareggia
@@ -7994,7 +7972,7 @@ Meina - Comune controllato:
 Mel - Comune non indipendente, controllore: Lentiai
 Melara - Comune controllato: 
 	Melara
-Melazzo - Comune non indipendente, controllore: Grognardo
+Melazzo - Comune non indipendente, controllore: Montabone
 Meldola - Comune controllato: 
 	Meldola
 Mele - Comune controllato: 
@@ -8018,8 +7996,7 @@ Melissa - Comuni controllati:
 Melissano - Comune non indipendente, controllore: Casarano
 Melito Irpino - Comune controllato: 
 	Melito Irpino
-Melito di Napoli - Comuni controllati: 
-	Melito di Napoli
+Melito di Napoli - Comune controllato: 
 	Casandrino
 Melito di Porto Salvo - Comuni controllati: 
 	Melito di Porto Salvo
@@ -8050,8 +8027,7 @@ Menfi - Comuni controllati:
 	Menfi
 	Montevago
 Mentana - Comune non indipendente, controllore: Sant'Angelo Romano
-Meolo - Comune controllato: 
-	Meolo
+Meolo - Comune non indipendente, controllore: Zenson di Piave
 Merana - Comuni controllati: 
 	Merana
 	Piana Crixia
@@ -8070,9 +8046,8 @@ Mercato San Severino - Comune controllato:
 	Mercato San Severino
 Mercato Saraceno - Comune controllato: 
 	Mercato Saraceno
-Mercenasco - Comuni controllati: 
+Mercenasco - Comune controllato: 
 	Mercenasco
-	Scarmagno
 Mercogliano - Comune controllato: 
 	Mercogliano
 Mereto di Tomba - Comune controllato: 
@@ -8186,9 +8161,8 @@ Millesimo - Comune controllato:
 Milo - Comune controllato: 
 	Milo
 Milzano - Comune non indipendente, controllore: Pavone del Mella
-Mineo - Comuni controllati: 
+Mineo - Comune controllato: 
 	Mineo
-	Grammichele
 Minerbe - Comune non indipendente, controllore: Cologna Veneta
 Minerbio - Comune controllato: 
 	Minerbio
@@ -8201,9 +8175,10 @@ Minori - Comune non indipendente, controllore: Ravello
 Minturno - Comuni controllati: 
 	Minturno
 	Santi Cosma e Damiano
-Minucciano - Comune non indipendente, controllore: Fivizzano
-Mioglia - Comune controllato: 
+Minucciano - Comune non indipendente, controllore: Careggine
+Mioglia - Comuni controllati: 
 	Mioglia
+	Pareto
 Mira - Comune controllato: 
 	Mira
 Mirabella Eclano - Comune controllato: 
@@ -8255,15 +8230,14 @@ Modugno - Comune controllato:
 Moena - Comune controllato: 
 	Moena
 Moggio - Comune non indipendente, controllore: Vedeseta
-Moggio Udinese - Comune controllato: 
-	Moggio Udinese
+Moggio Udinese - Comune non indipendente, controllore: Resiutta
 Moglia - Comune controllato: 
 	Moglia
 Mogliano - Comune non indipendente, controllore: Corridonia
 Mogliano Veneto - Comune non indipendente, controllore: Casier
 Mogorella - Comune controllato: 
 	Mogorella
-Mogoro - Comune non indipendente, controllore: Pabillonis
+Mogoro - Comune non indipendente, controllore: San Gavino Monreale
 Moiano - Comune non indipendente, controllore: Sant'Agata de' Goti
 Moimacco - Comune controllato: 
 	Moimacco
@@ -8311,11 +8285,13 @@ Molteno - Comuni controllati:
 	Garbagnate Monastero
 Moltrasio - Comune controllato: 
 	Moltrasio
-Molvena - Comune controllato: 
+Molvena - Comuni controllati: 
 	Molvena
+	Pianezze
 Molveno - Comuni controllati: 
 	Molveno
 	Andalo
+	San Lorenzo in Banale
 Mombaldone - Comune controllato: 
 	Mombaldone
 Mombarcaro - Comune non indipendente, controllore: San Benedetto Belbo
@@ -8335,8 +8311,7 @@ Momo - Comuni controllati:
 Mompantero - Comuni controllati: 
 	Mompantero
 	Susa
-Mompeo - Comune controllato: 
-	Mompeo
+Mompeo - Comune non indipendente, controllore: Salisano
 Momperone - Comune non indipendente, controllore: Pozzol Groppo
 Monacilioni - Comune controllato: 
 	Monacilioni
@@ -8354,9 +8329,9 @@ Monasterolo Casotto - Comune non indipendente, controllore: Torre Mondovi'
 Monasterolo del Castello - Comuni controllati: 
 	Monasterolo del Castello
 	Spinone al Lago
-Monasterolo di Savigliano - Comune non indipendente, controllore: Scarnafigi
+Monasterolo di Savigliano - Comune non indipendente, controllore: Ruffia
 Monastier di Treviso - Comune non indipendente, controllore: Zenson di Piave
-Monastir - Comune non indipendente, controllore: Ussana
+Monastir - Comune non indipendente, controllore: San Sperate
 Moncalieri - Comune controllato: 
 	Moncalieri
 Moncalvo - Comune controllato: 
@@ -8441,8 +8416,10 @@ Monta' - Comune controllato:
 	Monta'
 Montabone - Comuni controllati: 
 	Montabone
+	Acqui Terme
 	Terzo
 	Bistagno
+	Melazzo
 Montacuto - Comune controllato: 
 	Montacuto
 Montafia - Comune controllato: 
@@ -8450,6 +8427,7 @@ Montafia - Comune controllato:
 Montagano - Comuni controllati: 
 	Montagano
 	Petrella Tifernina
+	Castellino del Biferno
 Montagna - Comune controllato: 
 	Montagna
 Montagna in Valtellina - Comune non indipendente, controllore: Spriana
@@ -8529,6 +8507,7 @@ Monte Compatri - Comuni controllati:
 	Colonna
 	San Cesareo
 	Zagarolo
+	Monte Porzio Catone
 Monte Cremasco - Comune controllato: 
 	Monte Cremasco
 Monte Giberto - Comune controllato: 
@@ -8541,7 +8520,7 @@ Monte Marenzo - Comune controllato:
 	Monte Marenzo
 Monte Porzio - Comune controllato: 
 	Monte Porzio
-Monte Porzio Catone - Comune non indipendente, controllore: Frascati
+Monte Porzio Catone - Comune non indipendente, controllore: Monte Compatri
 Monte Rinaldo - Comune non indipendente, controllore: Montelparo
 Monte Roberto - Comune non indipendente, controllore: Castelbellino
 Monte Romano - Comune controllato: 
@@ -8575,8 +8554,7 @@ Monte Vidon Corrado - Comuni controllati:
 	Montappone
 Monte di Malo - Comune controllato: 
 	Monte di Malo
-Monte di Procida - Comune controllato: 
-	Bacoli
+Monte di Procida - Comune non indipendente, controllore: Procida
 Montebello Ionico - Comune non indipendente, controllore: Melito di Porto Salvo
 Montebello Vicentino - Comuni controllati: 
 	Montebello Vicentino
@@ -8607,6 +8585,7 @@ Montecalvo in Foglia - Comune non indipendente, controllore: Urbino
 Montecarlo - Comuni controllati: 
 	Montecarlo
 	Altopascio
+	Chiesina Uzzanese
 Montecarotto - Comune non indipendente, controllore: Serra de' Conti
 Montecassiano - Comune non indipendente, controllore: Appignano
 Montecastello - Comune controllato: 
@@ -8682,8 +8661,9 @@ Montefiorino - Comuni controllati:
 	Montefiorino
 	Palagano
 	Lama Mocogno
-Monteflavio - Comune controllato: 
+Monteflavio - Comuni controllati: 
 	Monteflavio
+	Montorio Romano
 Monteforte Cilento - Comune controllato: 
 	Monteforte Cilento
 Monteforte Irpino - Comune controllato: 
@@ -8705,8 +8685,9 @@ Montegalda - Comune non indipendente, controllore: Grisignano di Zocco
 Montegaldella - Comune controllato: 
 	Montegaldella
 Montegallo - Comune non indipendente, controllore: Arquata del Tronto
-Montegioco - Comune controllato: 
+Montegioco - Comuni controllati: 
 	Montegioco
+	Cerreto Grue
 Montegiordano - Comuni controllati: 
 	Montegiordano
 	Roseto Capo Spulico
@@ -8738,8 +8719,9 @@ Monteleone d'Orvieto - Comune non indipendente, controllore: Citta' della Pieve
 Monteleone di Fermo - Comune non indipendente, controllore: Monsampietro Morico
 Monteleone di Puglia - Comune controllato: 
 	Monteleone di Puglia
-Monteleone di Spoleto - Comune controllato: 
+Monteleone di Spoleto - Comuni controllati: 
 	Monteleone di Spoleto
+	Poggiodomo
 Montelepre - Comune controllato: 
 	Montelepre
 Montelibretti - Comune controllato: 
@@ -8752,6 +8734,7 @@ Montelongo - Comune controllato:
 Montelparo - Comuni controllati: 
 	Montelparo
 	Monte Rinaldo
+	Ortezzano
 Montelupo Albese - Comuni controllati: 
 	Montelupo Albese
 	Sinio
@@ -8760,7 +8743,8 @@ Montelupo Fiorentino - Comune controllato:
 Montelupone - Comune controllato: 
 	Montelupone
 Montemaggiore Belsito - Comune non indipendente, controllore: Alia
-Montemaggiore al Metauro - Comune non indipendente, controllore: Piagge
+Montemaggiore al Metauro - Comune controllato: 
+	Montemaggiore al Metauro
 Montemagno - Comune non indipendente, controllore: Castagnole Monferrato
 Montemale di Cuneo - Comune non indipendente, controllore: Valgrana
 Montemarano - Comune controllato: 
@@ -8811,9 +8795,8 @@ Monterchi - Comune controllato:
 	Monterchi
 Montereale - Comune controllato: 
 	Montereale
-Montereale Valcellina - Comuni controllati: 
+Montereale Valcellina - Comune controllato: 
 	Montereale Valcellina
-	Vajont
 Monterenzio - Comune controllato: 
 	Monterenzio
 Monteriggioni - Comune controllato: 
@@ -8919,13 +8902,11 @@ Montodine - Comune controllato:
 	Montodine
 Montoggio - Comune controllato: 
 	Montoggio
-Montone - Comune controllato: 
-	Montone
-Montopoli di Sabina - Comune controllato: 
-	Torrita Tiberina
-Montopoli in Val d'Arno - Comune non indipendente, controllore: Palaia
+Montone - Comune non indipendente, controllore: Pietralunga
+Montopoli di Sabina - Comune non indipendente, controllore: Fara in Sabina
+Montopoli in Val d'Arno - Comune non indipendente, controllore: San Miniato
 Montorfano - Comune non indipendente, controllore: Lipomo
-Montorio Romano - Comune non indipendente, controllore: Palombara Sabina
+Montorio Romano - Comune non indipendente, controllore: Monteflavio
 Montorio al Vomano - Comuni controllati: 
 	Montorio al Vomano
 	Tossicia
@@ -8936,8 +8917,7 @@ Montoro Inferiore - Comuni controllati:
 	Montoro Inferiore
 	Montoro Superiore
 Montoro Superiore - Comune non indipendente, controllore: Montoro Inferiore
-Montorso Vicentino - Comune controllato: 
-	Montorso Vicentino
+Montorso Vicentino - Comune non indipendente, controllore: Arzignano
 Montottone - Comune controllato: 
 	Montottone
 Montresta - Comune non indipendente, controllore: Bosa
@@ -8954,8 +8934,7 @@ Monzambano - Comuni controllati:
 	Pozzolengo
 	Peschiera del Garda
 	Desenzano del Garda
-Monzuno - Comune controllato: 
-	Monzuno
+Monzuno - Comune non indipendente, controllore: Loiano
 Morano Calabro - Comune controllato: 
 	Morano Calabro
 Morano sul Po - Comune non indipendente, controllore: Coniolo
@@ -8996,8 +8975,9 @@ Mori - Comune controllato:
 	Mori
 Moriago della Battaglia - Comune non indipendente, controllore: Vidor
 Moricone - Comune non indipendente, controllore: Palombara Sabina
-Morigerati - Comune controllato: 
+Morigerati - Comuni controllati: 
 	Morigerati
+	Caselle in Pittari
 Morimondo - Comune controllato: 
 	Morimondo
 Morino - Comune controllato: 
@@ -9058,6 +9038,7 @@ Mosso - Comune controllato:
 Motta Baluffi - Comuni controllati: 
 	Motta Baluffi
 	Cingia de' Botti
+	San Martino del Lago
 Motta Camastra - Comuni controllati: 
 	Motta Camastra
 	Graniti
@@ -9071,8 +9052,7 @@ Motta Santa Lucia - Comune controllato:
 	Motta Santa Lucia
 Motta Visconti - Comune non indipendente, controllore: Besate
 Motta d'Affermo - Comune non indipendente, controllore: Mistretta
-Motta de' Conti - Comune controllato: 
-	Motta de' Conti
+Motta de' Conti - Comune non indipendente, controllore: Villanova Monferrato
 Motta di Livenza - Comuni controllati: 
 	Motta di Livenza
 	Gorgo al Monticano
@@ -9090,6 +9070,7 @@ Mozzanica - Comuni controllati:
 	Fornovo San Giovanni
 	Bariano
 	Fara Olivana con Sola
+	Caravaggio
 Mozzate - Comuni controllati: 
 	Mozzate
 	Carbonate
@@ -9105,8 +9086,9 @@ Muggio' - Comune controllato:
 Mugnano del Cardinale - Comuni controllati: 
 	Mugnano del Cardinale
 	Quadrelle
-Mugnano di Napoli - Comune controllato: 
+Mugnano di Napoli - Comuni controllati: 
 	Mugnano di Napoli
+	Melito di Napoli
 Mulazzano - Comune non indipendente, controllore: Cervignano d'Adda
 Mulazzo - Comuni controllati: 
 	Mulazzo
@@ -9134,8 +9116,7 @@ Muros - Comuni controllati:
 	Muros
 	Cargeghe
 Muscoline - Comune non indipendente, controllore: Puegnago sul Garda
-Musei - Comune controllato: 
-	Musei
+Musei - Comune non indipendente, controllore: Siliqua
 Musile di Piave - Comune controllato: 
 	Musile di Piave
 Musso - Comune controllato: 
@@ -9169,9 +9150,8 @@ Nardo' - Comuni controllati:
 	Leverano
 Nardodipace - Comune controllato: 
 	Nardodipace
-Narni - Comuni controllati: 
+Narni - Comune controllato: 
 	Narni
-	Otricoli
 Naro - Comuni controllati: 
 	Naro
 	Camastra
@@ -9180,7 +9160,7 @@ Narzole - Comune controllato:
 	Narzole
 Nasino - Comune controllato: 
 	Nasino
-Naso - Comune non indipendente, controllore: Capo d'Orlando
+Naso - Comune non indipendente, controllore: Frazzano'
 Naturno - Comune controllato: 
 	Naturno
 Nave - Comune controllato: 
@@ -9191,15 +9171,16 @@ Navelli - Comune controllato:
 	Navelli
 Naz-Sciaves - Comune controllato: 
 	Naz-Sciaves
-Nazzano - Comune controllato: 
+Nazzano - Comuni controllati: 
 	Nazzano
+	Torrita Tiberina
 Ne - Comune non indipendente, controllore: Mezzanego
 Nebbiuno - Comune non indipendente, controllore: Massino Visconti
 Negrar - Comune controllato: 
 	Negrar
 Neirone - Comune controllato: 
 	Neirone
-Neive - Comune non indipendente, controllore: Barbaresco
+Neive - Comune non indipendente, controllore: Coazzolo
 Nembro - Comune controllato: 
 	Nembro
 Nemi - Comune controllato: 
@@ -9210,6 +9191,7 @@ Nepi - Comuni controllati:
 	Nepi
 	Castel Sant'Elia
 	Monterosi
+	Faleria
 Nereto - Comuni controllati: 
 	Nereto
 	Torano Nuovo
@@ -9242,8 +9224,9 @@ Nibbiano - Comune controllato:
 	Nibbiano
 Nibbiola - Comune controllato: 
 	Nibbiola
-Nibionno - Comune controllato: 
+Nibionno - Comuni controllati: 
 	Nibionno
+	Veduggio con Colzano
 Nichelino - Comune controllato: 
 	Nichelino
 Nicolosi - Comuni controllati: 
@@ -9301,8 +9284,7 @@ Noicattaro - Comune non indipendente, controllore: Rutigliano
 Nola - Comuni controllati: 
 	Nola
 	Cimitile
-Nole - Comune controllato: 
-	Nole
+Nole - Comune non indipendente, controllore: Villanova Canavese
 Noli - Comune controllato: 
 	Noli
 Nomaglio - Comune controllato: 
@@ -9356,8 +9338,9 @@ Novate Milanese - Comuni controllati:
 	Novate Milanese
 	Baranzate
 Nove - Comune non indipendente, controllore: Cartigliano
-Novedrate - Comune controllato: 
+Novedrate - Comuni controllati: 
 	Novedrate
+	Figino Serenza
 Novellara - Comune non indipendente, controllore: Rio Saliceto
 Novello - Comuni controllati: 
 	Novello
@@ -9366,7 +9349,7 @@ Noventa Padovana - Comune controllato:
 	Noventa Padovana
 Noventa Vicentina - Comune controllato: 
 	Noventa Vicentina
-Noventa di Piave - Comune non indipendente, controllore: Salgareda
+Noventa di Piave - Comune non indipendente, controllore: Jesolo
 Novi Ligure - Comuni controllati: 
 	Novi Ligure
 	Pasturana
@@ -9392,7 +9375,6 @@ Numana - Comuni controllati:
 Nuoro - Comune non indipendente, controllore: Oliena
 Nurachi - Comuni controllati: 
 	Nurachi
-	Baratili San Pietro
 	Riola Sardo
 Nuragus - Comune controllato: 
 	Nuragus
@@ -9446,8 +9428,9 @@ Offida - Comune controllato:
 	Offida
 Offlaga - Comune controllato: 
 	Offlaga
-Oggebbio - Comune controllato: 
+Oggebbio - Comuni controllati: 
 	Oggebbio
+	Cannero Riviera
 Oggiona con Santo Stefano - Comune non indipendente, controllore: Jerago con Orago
 Oggiono - Comuni controllati: 
 	Oggiono
@@ -9613,7 +9596,6 @@ Ornavasso - Comuni controllati:
 	Massiola
 	Pieve Vergonte
 	Premosello-Chiovenda
-	Vogogna
 Ornica - Comune controllato: 
 	Cusio
 Orosei - Comune controllato: 
@@ -9644,8 +9626,7 @@ Orte - Comuni controllati:
 	Orte
 	Vasanello
 Ortelle - Comune non indipendente, controllore: Santa Cesarea Terme
-Ortezzano - Comune controllato: 
-	Ortezzano
+Ortezzano - Comune non indipendente, controllore: Montelparo
 Ortignano Raggiolo - Comune controllato: 
 	Ortignano Raggiolo
 Ortisei - Comune non indipendente, controllore: Funes
@@ -9670,13 +9651,13 @@ Orvieto - Comuni controllati:
 	Porano
 Orvinio - Comune controllato: 
 	Orvinio
-Orzinuovi - Comune controllato: 
+Orzinuovi - Comuni controllati: 
 	Orzinuovi
-Orzivecchi - Comune non indipendente, controllore: Pompiano
+	Orzivecchi
+Orzivecchi - Comune non indipendente, controllore: Orzinuovi
 Osasco - Comune non indipendente, controllore: Garzigliana
 Osasio - Comune non indipendente, controllore: Virle Piemonte
-Oschiri - Comuni controllati: 
-	Oschiri
+Oschiri - Comune controllato: 
 	Tula
 Osidda - Comune non indipendente, controllore: Nule
 Osiglia - Comuni controllati: 
@@ -9737,7 +9718,7 @@ Ostuni - Comune controllato:
 	Ostuni
 Otranto - Comune controllato: 
 	Otranto
-Otricoli - Comune non indipendente, controllore: Narni
+Otricoli - Comune non indipendente, controllore: Calvi dell'Umbria
 Ottana - Comune controllato: 
 	Ottana
 Ottati - Comune controllato: 
@@ -9763,8 +9744,7 @@ Ovindoli - Comuni controllati:
 	Rocca di Mezzo
 Ovodda - Comune controllato: 
 	Ovodda
-Oyace - Comune controllato: 
-	Oyace
+Oyace - Comune non indipendente, controllore: Valpelline
 Ozegna - Comune non indipendente, controllore: Ciconio
 Ozieri - Comune controllato: 
 	Ozieri
@@ -9773,8 +9753,7 @@ Ozzano dell'Emilia - Comune controllato:
 	Ozzano dell'Emilia
 Ozzero - Comune controllato: 
 	Ozzero
-Pabillonis - Comune controllato: 
-	Mogoro
+Pabillonis - Comune non indipendente, controllore: San Gavino Monreale
 Pace del Mela - Comuni controllati: 
 	Pace del Mela
 	San Filippo del Mela
@@ -9788,7 +9767,7 @@ Padenghe sul Garda - Comune non indipendente, controllore: Moniga del Garda
 Padergnone - Comuni controllati: 
 	Padergnone
 	Calavino
-Paderna - Comune non indipendente, controllore: Carezzano
+Paderna - Comune non indipendente, controllore: Villalvernia
 Paderno Dugnano - Comune controllato: 
 	Paderno Dugnano
 Paderno Franciacorta - Comune non indipendente, controllore: Cazzago San Martino
@@ -9815,7 +9794,7 @@ Paesana - Comune controllato:
 Paese - Comune controllato: 
 	Paese
 Pagani - Comune non indipendente, controllore: Angri
-Paganico Sabino - Comune non indipendente, controllore: Collegiove
+Paganico Sabino - Comune non indipendente, controllore: Varco Sabino
 Pagazzano - Comune controllato: 
 	Pagazzano
 Pagliara - Comune non indipendente, controllore: Mandanici
@@ -9844,7 +9823,6 @@ Palagonia - Comuni controllati:
 	Militello in Val di Catania
 Palaia - Comuni controllati: 
 	Palaia
-	Montopoli in Val d'Arno
 	Santa Maria a Monte
 Palanzano - Comune non indipendente, controllore: Tizzano Val Parma
 Palata - Comune non indipendente, controllore: Acquaviva Collecroce
@@ -9870,6 +9848,7 @@ Palazzolo Vercellese - Comuni controllati:
 Palazzolo dello Stella - Comuni controllati: 
 	Palazzolo dello Stella
 	Precenicco
+	Latisana
 Palazzolo sull'Oglio - Comune controllato: 
 	Palazzolo sull'Oglio
 Palazzuolo sul Senio - Comune controllato: 
@@ -9882,12 +9861,10 @@ Palermo - Comune controllato:
 	Palermo
 Palestrina - Comune controllato: 
 	Palestrina
-Palestro - Comune controllato: 
-	Palestro
+Palestro - Comune non indipendente, controllore: Prarolo
 Paliano - Comuni controllati: 
 	Paliano
 	Genazzano
-	Serrone
 Palizzi - Comuni controllati: 
 	Palizzi
 	Brancaleone
@@ -9918,7 +9895,6 @@ Palo del Colle - Comune controllato:
 Palombara Sabina - Comuni controllati: 
 	Palombara Sabina
 	Moricone
-	Montorio Romano
 Palombaro - Comune controllato: 
 	Palombaro
 Palomonte - Comuni controllati: 
@@ -9935,6 +9911,7 @@ Paludi - Comune non indipendente, controllore: Rossano
 Paluzza - Comuni controllati: 
 	Paluzza
 	Cercivento
+	Ravascletto
 Pamparato - Comune controllato: 
 	Pamparato
 Pancalieri - Comune controllato: 
@@ -9972,8 +9949,7 @@ Paratico - Comuni controllati:
 Parcines - Comuni controllati: 
 	Parcines
 	Lagundo
-Pare' - Comune controllato: 
-	Pare'
+Pare' - Comune non indipendente, controllore: Gironico
 Parella - Comuni controllati: 
 	Parella
 	Quagliuzzo
@@ -9981,8 +9957,7 @@ Parenti - Comune controllato:
 	Parenti
 Parete - Comune controllato: 
 	Parete
-Pareto - Comune controllato: 
-	Pareto
+Pareto - Comune non indipendente, controllore: Mioglia
 Parghelia - Comune non indipendente, controllore: Zambrone
 Parlasco - Comuni controllati: 
 	Parlasco
@@ -10015,6 +9990,7 @@ Pasiano di Pordenone - Comuni controllati:
 	Prata di Pordenone
 	Meduna di Livenza
 	Pravisdomini
+	Brugnera
 Paspardo - Comune controllato: 
 	Paspardo
 Passerano Marmorito - Comune non indipendente, controllore: Pino d'Asti
@@ -10022,8 +9998,7 @@ Passignano sul Trasimeno - Comune non indipendente, controllore: Magione
 Passirano - Comune non indipendente, controllore: Cazzago San Martino
 Pastena - Comune controllato: 
 	Pastena
-Pastorano - Comune controllato: 
-	Pastorano
+Pastorano - Comune non indipendente, controllore: Pignataro Maggiore
 Pastrengo - Comune controllato: 
 	Pastrengo
 Pasturana - Comune non indipendente, controllore: Novi Ligure
@@ -10053,12 +10028,10 @@ Paularo - Comune controllato:
 Pauli Arbarei - Comuni controllati: 
 	Pauli Arbarei
 	Lunamatrona
-	Villanovaforru
 Paulilatino - Comune controllato: 
 	Paulilatino
 Paullo - Comune non indipendente, controllore: Tribiano
-Paupisi - Comune controllato: 
-	Paupisi
+Paupisi - Comune non indipendente, controllore: Vitulano
 Pavarolo - Comuni controllati: 
 	Pavarolo
 	Montaldo Torinese
@@ -10088,11 +10061,11 @@ Pecetto di Valenza - Comune controllato:
 Pecorara - Comuni controllati: 
 	Pecorara
 	Romagnese
+	Zavattarello
 Pedace - Comune non indipendente, controllore: Serra Pedace
 Pedara - Comune non indipendente, controllore: Nicolosi
 Pedaso - Comune non indipendente, controllore: Massignano
-Pedavena - Comune controllato: 
-	Pedavena
+Pedavena - Comune non indipendente, controllore: Feltre
 Pedemonte - Comune non indipendente, controllore: Lastebasse
 Pederobba - Comune controllato: 
 	Pederobba
@@ -10195,7 +10168,7 @@ Perrero - Comune non indipendente, controllore: Prali
 Persico Dosimo - Comuni controllati: 
 	Persico Dosimo
 	Gadesco-Pieve Delmona
-	Pozzaglio ed Uniti
+	Vescovato
 Pertengo - Comune controllato: 
 	Pertengo
 Pertica Alta - Comune non indipendente, controllore: Mura
@@ -10276,8 +10249,7 @@ Petrona' - Comuni controllati:
 Petrosino - Comune controllato: 
 	Mazara del Vallo
 Petruro Irpino - Comune non indipendente, controllore: Torrioni
-Pettenasco - Comune controllato: 
-	Pettenasco
+Pettenasco - Comune non indipendente, controllore: Ameno
 Pettinengo - Comune controllato: 
 	Pettinengo
 Pettineo - Comune non indipendente, controllore: San Mauro Castelverde
@@ -10301,7 +10273,6 @@ Piadena - Comune controllato:
 	Piadena
 Piagge - Comuni controllati: 
 	Piagge
-	Montemaggiore al Metauro
 	San Giorgio di Pesaro
 	Orciano di Pesaro
 Piaggine - Comune controllato: 
@@ -10313,8 +10284,9 @@ Pian di Sco - Comune controllato:
 Piana Crixia - Comune non indipendente, controllore: Merana
 Piana degli Albanesi - Comune controllato: 
 	Piana degli Albanesi
-Piana di Monte Verna - Comune controllato: 
+Piana di Monte Verna - Comuni controllati: 
 	Piana di Monte Verna
+	Castel di Sasso
 Piancastagnaio - Comune non indipendente, controllore: Sorano
 Piancogno - Comune controllato: 
 	Piancogno
@@ -10330,10 +10302,10 @@ Pianello del Lario - Comune controllato:
 Pianengo - Comune controllato: 
 	Pianengo
 Pianezza - Comune non indipendente, controllore: Collegno
-Pianezze - Comune non indipendente, controllore: Mason Vicentino
+Pianezze - Comune non indipendente, controllore: Molvena
 Pianfei - Comune controllato: 
 	Pianfei
-Pianico - Comune non indipendente, controllore: Solto Collina
+Pianico - Comune non indipendente, controllore: Sovere
 Pianiga - Comune controllato: 
 	Pianiga
 Piano di Sorrento - Comune non indipendente, controllore: Meta
@@ -10373,8 +10345,7 @@ Piazzolo - Comune controllato:
 	Piazzolo
 Picciano - Comune non indipendente, controllore: Penne
 Picerno - Comune non indipendente, controllore: Baragiano
-Picinisco - Comune controllato: 
-	Picinisco
+Picinisco - Comune non indipendente, controllore: San Biagio Saracinisco
 Pico - Comune controllato: 
 	Pico
 Piea - Comune non indipendente, controllore: Cortanze
@@ -10413,8 +10384,9 @@ Pietrafitta - Comuni controllati:
 	Casole Bruzio
 Pietragalla - Comune controllato: 
 	Pietragalla
-Pietralunga - Comune controllato: 
+Pietralunga - Comuni controllati: 
 	Pietralunga
+	Montone
 Pietramelara - Comuni controllati: 
 	Pietramelara
 	Riardo
@@ -10430,8 +10402,9 @@ Pietraporzio - Comuni controllati:
 	Pietraporzio
 	Sambuco
 Pietraroja - Comune non indipendente, controllore: Cusano Mutri
-Pietrarubbia - Comune controllato: 
+Pietrarubbia - Comuni controllati: 
 	Pietrarubbia
+	Frontino
 Pietrasanta - Comune controllato: 
 	Pietrasanta
 Pietrastornina - Comune controllato: 
@@ -10459,14 +10432,13 @@ Pieve San Giacomo - Comune controllato:
 Pieve Santo Stefano - Comune non indipendente, controllore: Caprese Michelangelo
 Pieve Tesino - Comune controllato: 
 	Pieve Tesino
-Pieve Torina - Comune controllato: 
-	Pieve Torina
+Pieve Torina - Comune non indipendente, controllore: Serravalle di Chienti
 Pieve Vergonte - Comune non indipendente, controllore: Ornavasso
 Pieve a Nievole - Comuni controllati: 
 	Pieve a Nievole
 	Monsummano Terme
 	Larciano
-Pieve d'Alpago - Comune non indipendente, controllore: Chies d'Alpago
+Pieve d'Alpago - Comune non indipendente, controllore: Erto e Casso
 Pieve d'Olmi - Comune controllato: 
 	Pieve d'Olmi
 Pieve del Cairo - Comuni controllati: 
@@ -10497,8 +10469,9 @@ Pigna - Comune non indipendente, controllore: Castel Vittorio
 Pignataro Interamna - Comuni controllati: 
 	Pignataro Interamna
 	San Giorgio a Liri
-Pignataro Maggiore - Comune controllato: 
+Pignataro Maggiore - Comuni controllati: 
 	Pignataro Maggiore
+	Pastorano
 Pignola - Comune controllato: 
 	Pignola
 Pignone - Comune non indipendente, controllore: Levanto
@@ -10527,6 +10500,7 @@ Pino d'Asti - Comuni controllati:
 	Pino d'Asti
 	Passerano Marmorito
 	Cerreto d'Asti
+	Piova' Massaia
 Pino sulla Sponda del Lago Maggiore - Comuni controllati: 
 	Pino sulla Sponda del Lago Maggiore
 	Tronzano Lago Maggiore
@@ -10557,11 +10531,11 @@ Piombino Dese - Comuni controllati:
 	Piombino Dese
 	Trebaseleghe
 	Noale
+	Massanzago
 Pioraco - Comune controllato: 
 	Pioraco
 Piossasco - Comune non indipendente, controllore: Villarbasse
-Piova' Massaia - Comune controllato: 
-	Piova' Massaia
+Piova' Massaia - Comune non indipendente, controllore: Pino d'Asti
 Piove di Sacco - Comune controllato: 
 	Piove di Sacco
 Piovene Rocchette - Comune controllato: 
@@ -10601,11 +10575,11 @@ Pitigliano - Comuni controllati:
 	Farnese
 	Ischia di Castro
 Piubega - Comune non indipendente, controllore: Gazoldo degli Ippoliti
-Piuro - Comune controllato: 
+Piuro - Comuni controllati: 
 	Piuro
+	Campodolcino
 Piverone - Comune non indipendente, controllore: Zimone
-Pizzale - Comune controllato: 
-	Pizzale
+Pizzale - Comune non indipendente, controllore: Lungavilla
 Pizzighettone - Comune controllato: 
 	Pizzighettone
 Pizzo - Comune non indipendente, controllore: Maierato
@@ -10672,8 +10646,7 @@ Poggio San Vicino - Comuni controllati:
 Poggio Sannita - Comune controllato: 
 	Poggio Sannita
 Poggio a Caiano - Comune non indipendente, controllore: Signa
-Poggiodomo - Comune controllato: 
-	Poggiodomo
+Poggiodomo - Comune non indipendente, controllore: Monteleone di Spoleto
 Poggiofiorito - Comuni controllati: 
 	Poggiofiorito
 	Arielli
@@ -10764,18 +10737,15 @@ Pompei - Comuni controllati:
 	Pompei
 	Torre Annunziata
 Pompeiana - Comune non indipendente, controllore: Riva Ligure
-Pompiano - Comuni controllati: 
+Pompiano - Comune controllato: 
 	Pompiano
-	Orzivecchi
 Pomponesco - Comune controllato: 
 	Pomponesco
 Pompu - Comune controllato: 
 	Pompu
-Poncarale - Comuni controllati: 
+Poncarale - Comune controllato: 
 	Poncarale
-	Flero
-Ponderano - Comune controllato: 
-	Ponderano
+Ponderano - Comune non indipendente, controllore: Borriana
 Ponna - Comune non indipendente, controllore: Laino
 Ponsacco - Comune non indipendente, controllore: Lari
 Ponso - Comune controllato: 
@@ -10791,8 +10761,7 @@ Ponte - Comune controllato:
 	Ponte
 Ponte Buggianese - Comune controllato: 
 	Ponte Buggianese
-Ponte Gardena - Comune controllato: 
-	Ponte Gardena
+Ponte Gardena - Comune non indipendente, controllore: Laion
 Ponte Lambro - Comuni controllati: 
 	Ponte Lambro
 	Caslino d'Erba
@@ -10881,8 +10850,9 @@ Porcia - Comuni controllati:
 	Pordenone
 	Fontanafredda
 Pordenone - Comune non indipendente, controllore: Porcia
-Porlezza - Comune controllato: 
+Porlezza - Comuni controllati: 
 	Porlezza
+	Claino con Osteno
 Pornassio - Comune controllato: 
 	Pornassio
 Porpetto - Comune controllato: 
@@ -10922,7 +10892,7 @@ Porto Torres - Comuni controllati:
 	Stintino
 Porto Valtravaglia - Comune controllato: 
 	Porto Valtravaglia
-Porto Viro - Comune non indipendente, controllore: Rosolina
+Porto Viro - Comune non indipendente, controllore: Ariano nel Polesine
 Portobuffole' - Comune non indipendente, controllore: Fontanelle
 Portocannone - Comune non indipendente, controllore: Campomarino
 Portoferraio - Comuni controllati: 
@@ -10937,6 +10907,7 @@ Portopalo di Capo Passero - Comune controllato:
 Portoscuso - Comuni controllati: 
 	Portoscuso
 	Gonnesa
+	Carbonia
 Portovenere - Comune controllato: 
 	Portovenere
 Portula - Comuni controllati: 
@@ -10981,7 +10952,7 @@ Pozza di Fassa - Comune controllato:
 	Pozza di Fassa
 Pozzaglia Sabina - Comune controllato: 
 	Pozzaglia Sabina
-Pozzaglio ed Uniti - Comune non indipendente, controllore: Persico Dosimo
+Pozzaglio ed Uniti - Comune non indipendente, controllore: Castelverde
 Pozzallo - Comune controllato: 
 	Pozzallo
 Pozzilli - Comuni controllati: 
@@ -11039,6 +11010,7 @@ Prarolo - Comuni controllati:
 	Prarolo
 	Pezzana
 	Caresana
+	Palestro
 Prarostino - Comuni controllati: 
 	Prarostino
 	San Secondo di Pinerolo
@@ -11068,6 +11040,7 @@ Prato Carnico - Comuni controllati:
 Prato Sesia - Comuni controllati: 
 	Prato Sesia
 	Cavallirio
+	Grignasco
 Prato allo Stelvio - Comune controllato: 
 	Prato allo Stelvio
 Pratola Peligna - Comune controllato: 
@@ -11101,8 +11074,7 @@ Pregnana Milanese - Comuni controllati:
 	Pregnana Milanese
 	Vanzago
 	Pogliano Milanese
-Prela' - Comune controllato: 
-	Prela'
+Prela' - Comune non indipendente, controllore: Vasia
 Premana - Comuni controllati: 
 	Premana
 	Pagnona
@@ -11162,6 +11134,7 @@ Proceno - Comune controllato:
 Procida - Comuni controllati: 
 	Procida
 	Monte di Procida
+	Bacoli
 Propata - Comune non indipendente, controllore: Torriglia
 Proserpio - Comune controllato: 
 	Proserpio
@@ -11178,8 +11151,7 @@ Puegnago sul Garda - Comuni controllati:
 	Prevalle
 	Muscoline
 	Calvagese della Riviera
-Puglianello - Comune controllato: 
-	Puglianello
+Puglianello - Comune non indipendente, controllore: Amorosi
 Pula - Comuni controllati: 
 	Pula
 	Villa San Pietro
@@ -11193,8 +11165,9 @@ Pulsano - Comuni controllati:
 	Leporano
 	Faggiano
 	Lizzano
-Pumenengo - Comune controllato: 
+Pumenengo - Comuni controllati: 
 	Pumenengo
+	Torre Pallavicina
 Puos d'Alpago - Comune non indipendente, controllore: Farra d'Alpago
 Pusiano - Comune controllato: 
 	Pusiano
@@ -11258,8 +11231,7 @@ Quinzano d'Oglio - Comuni controllati:
 	Bordolano
 Quistello - Comune controllato: 
 	Quistello
-Quittengo - Comuni controllati: 
-	Tavigliano
+Quittengo - Comune controllato: 
 	Selve Marcone
 Rabbi - Comune non indipendente, controllore: Martello
 Racale - Comune controllato: 
@@ -11268,8 +11240,7 @@ Racalmuto - Comune non indipendente, controllore: Grotte
 Racconigi - Comuni controllati: 
 	Racconigi
 	Caramagna Piemonte
-Raccuja - Comune controllato: 
-	Raccuja
+Raccuja - Comune non indipendente, controllore: Ucria
 Racines - Comune controllato: 
 	Racines
 Radda in Chianti - Comune controllato: 
@@ -11329,11 +11300,11 @@ Rasura - Comuni controllati:
 	Pedesina
 	Rogolo
 	Gerola Alta
+	Bema
 Ravanusa - Comune controllato: 
 	Ravanusa
 Ravarino - Comune non indipendente, controllore: Bomporto
-Ravascletto - Comune controllato: 
-	Ravascletto
+Ravascletto - Comune non indipendente, controllore: Paluzza
 Ravello - Comuni controllati: 
 	Ravello
 	Minori
@@ -11403,6 +11374,7 @@ Resiutta - Comuni controllati:
 	Resiutta
 	Venzone
 	Amaro
+	Moggio Udinese
 Resuttano - Comune controllato: 
 	Resuttano
 Retorbido - Comune non indipendente, controllore: Codevilla
@@ -11594,8 +11566,9 @@ Roaschia - Comune controllato:
 Roascio - Comune controllato: 
 	Roascio
 Roasio - Comune non indipendente, controllore: Lozzolo
-Roatto - Comune controllato: 
+Roatto - Comuni controllati: 
 	Roatto
+	Maretto
 Robassomero - Comune controllato: 
 	Robassomero
 Robbiate - Comune controllato: 
@@ -11686,8 +11659,7 @@ Roccaforte del Greco - Comune controllato:
 Roccaforzata - Comune non indipendente, controllore: Monteparano
 Roccafranca - Comune controllato: 
 	Roccafranca
-Roccagiovine - Comune controllato: 
-	Roccagiovine
+Roccagiovine - Comune non indipendente, controllore: San Polo dei Cavalieri
 Roccagloriosa - Comune non indipendente, controllore: San Giovanni a Piro
 Roccagorga - Comune controllato: 
 	Roccagorga
@@ -11733,8 +11705,9 @@ Roccasicura - Comuni controllati:
 Roccasparvera - Comuni controllati: 
 	Gaiola
 	Moiola
-Roccaspinalveti - Comune controllato: 
+Roccaspinalveti - Comuni controllati: 
 	Roccaspinalveti
+	Fraine
 Roccastrada - Comune non indipendente, controllore: Civitella Paganico
 Roccavaldina - Comune controllato: 
 	Roccavaldina
@@ -11786,6 +11759,7 @@ Rodero - Comuni controllati:
 	Rodero
 	Valmorea
 	Albiolo
+	Solbiate
 Rodi Garganico - Comune non indipendente, controllore: Carpino
 Rodi' Milici - Comune non indipendente, controllore: Mazzarra' Sant'Andrea
 Rodigo - Comuni controllati: 
@@ -11812,6 +11786,7 @@ Rogolo - Comune non indipendente, controllore: Rasura
 Roiate - Comuni controllati: 
 	Roiate
 	Affile
+	Serrone
 Roio del Sangro - Comune non indipendente, controllore: Rosello
 Roisan - Comune controllato: 
 	Roisan
@@ -11843,7 +11818,7 @@ Romans d'Isonzo - Comune controllato:
 Rombiolo - Comune controllato: 
 	Rombiolo
 Romeno - Comune non indipendente, controllore: Romallo
-Romentino - Comune non indipendente, controllore: Trecate
+Romentino - Comune non indipendente, controllore: Galliate
 Rometta - Comune controllato: 
 	Rometta
 Ronago - Comune controllato: 
@@ -11855,9 +11830,8 @@ Roncade - Comune controllato:
 Roncadelle - Comuni controllati: 
 	Roncadelle
 	Castegnato
-Roncaro - Comuni controllati: 
+Roncaro - Comune controllato: 
 	Roncaro
-	Lardirago
 Roncegno Terme - Comune controllato: 
 	Roncegno Terme
 Roncello - Comune controllato: 
@@ -11900,9 +11874,8 @@ Rora' - Comuni controllati:
 	Lusernetta
 	Bobbio Pellice
 	Torre Pellice
-Rosa' - Comuni controllati: 
+Rosa' - Comune controllato: 
 	Rosa'
-	Tezze sul Brenta
 Rosarno - Comune controllato: 
 	Rosarno
 Rosasco - Comune controllato: 
@@ -11929,9 +11902,8 @@ Rosignano Marittimo - Comune controllato:
 	Rosignano Marittimo
 Rosignano Monferrato - Comune controllato: 
 	Rosignano Monferrato
-Rosolina - Comuni controllati: 
+Rosolina - Comune controllato: 
 	Rosolina
-	Porto Viro
 Rosolini - Comune controllato: 
 	Rosolini
 Rosora - Comune non indipendente, controllore: Mergo
@@ -12017,8 +11989,9 @@ Rudiano - Comune controllato:
 Rueglio - Comune controllato: 
 	Rueglio
 Ruffano - Comune non indipendente, controllore: Taurisano
-Ruffia - Comune controllato: 
+Ruffia - Comuni controllati: 
 	Ruffia
+	Monasterolo di Savigliano
 Ruffre'-Mendola - Comune controllato: 
 	Ruffre'-Mendola
 Rufina - Comune non indipendente, controllore: Londa
@@ -12037,6 +12010,7 @@ Rutino - Comuni controllati:
 	Lustra
 	Prignano Cilento
 	Torchiara
+	Sessa Cilento
 Ruviano - Comune controllato: 
 	Ruviano
 Ruvo del Monte - Comuni controllati: 
@@ -12071,14 +12045,14 @@ Sagliano Micca - Comuni controllati:
 	San Paolo Cervo
 	Andorno Micca
 	Quittengo
+	Tavigliano
 Sagrado - Comuni controllati: 
 	Sagrado
 	Gradisca d'Isonzo
 	Mariano del Friuli
 	Farra d'Isonzo
 	Fogliano Redipuglia
-Sagron Mis - Comune controllato: 
-	Sagron Mis
+Sagron Mis - Comune non indipendente, controllore: Gosaldo
 Saint-Christophe - Comune non indipendente, controllore: Quart
 Saint-Denis - Comune controllato: 
 	Saint-Denis
@@ -12111,8 +12085,9 @@ Salandra - Comune controllato:
 Salaparuta - Comune non indipendente, controllore: Poggioreale
 Salara - Comune non indipendente, controllore: Trecenta
 Salasco - Comune non indipendente, controllore: San Germano Vercellese
-Salassa - Comune controllato: 
+Salassa - Comuni controllati: 
 	Salassa
+	San Ponso
 Salbertrand - Comune non indipendente, controllore: Bardonecchia
 Salcedo - Comuni controllati: 
 	Salcedo
@@ -12138,15 +12113,15 @@ Salerno - Comune controllato:
 	Salerno
 Saletto - Comune controllato: 
 	Saletto
-Salgareda - Comuni controllati: 
+Salgareda - Comune controllato: 
 	Salgareda
-	Noventa di Piave
 Sali Vercellese - Comune non indipendente, controllore: Lignana
 Salice Salentino - Comune non indipendente, controllore: Veglie
 Saliceto - Comune controllato: 
 	Cosseria
-Salisano - Comune controllato: 
+Salisano - Comuni controllati: 
 	Salisano
+	Mompeo
 Salizzole - Comune controllato: 
 	Salizzole
 Salle - Comuni controllati: 
@@ -12182,8 +12157,7 @@ Salvitelle - Comune controllato:
 Salza Irpina - Comune controllato: 
 	Salza Irpina
 Salza di Pinerolo - Comune non indipendente, controllore: Prali
-Salzano - Comune controllato: 
-	Salzano
+Salzano - Comune non indipendente, controllore: Spinea
 Samarate - Comune controllato: 
 	Samarate
 Samassi - Comune non indipendente, controllore: Serrenti
@@ -12208,8 +12182,7 @@ Sampeyre - Comune controllato:
 	Sampeyre
 Samugheo - Comune controllato: 
 	Samugheo
-San Bartolomeo Val Cavargna - Comune controllato: 
-	San Bartolomeo Val Cavargna
+San Bartolomeo Val Cavargna - Comune non indipendente, controllore: San Nazzaro Val Cavargna
 San Bartolomeo al Mare - Comune controllato: 
 	Cervo
 San Bartolomeo in Galdo - Comune controllato: 
@@ -12219,15 +12192,17 @@ San Basile - Comune controllato:
 San Basilio - Comuni controllati: 
 	San Basilio
 	Senorbi'
-San Bassano - Comune controllato: 
+San Bassano - Comuni controllati: 
 	San Bassano
+	Cappella Cantone
 San Bellino - Comune non indipendente, controllore: Bagnolo di Po
 San Benedetto Belbo - Comuni controllati: 
 	San Benedetto Belbo
 	Mombarcaro
 San Benedetto Po - Comune non indipendente, controllore: Bagnolo San Vito
 San Benedetto Ullano - Comune non indipendente, controllore: Rota Greca
-San Benedetto Val di Sambro - Comune non indipendente, controllore: Firenzuola
+San Benedetto Val di Sambro - Comune controllato: 
+	San Benedetto Val di Sambro
 San Benedetto dei Marsi - Comune non indipendente, controllore: Ortucchio
 San Benedetto del Tronto - Comune controllato: 
 	San Benedetto del Tronto
@@ -12239,8 +12214,9 @@ San Bernardino Verbano - Comune controllato:
 	San Bernardino Verbano
 San Biagio Platani - Comune controllato: 
 	San Biagio Platani
-San Biagio Saracinisco - Comune controllato: 
+San Biagio Saracinisco - Comuni controllati: 
 	San Biagio Saracinisco
+	Picinisco
 San Biagio della Cima - Comuni controllati: 
 	San Biagio della Cima
 	Soldano
@@ -12281,8 +12257,7 @@ San Chirico Nuovo - Comuni controllati:
 San Chirico Raparo - Comune non indipendente, controllore: San Martino d'Agri
 San Cipirello - Comune controllato: 
 	San Cipirello
-San Cipriano Picentino - Comune controllato: 
-	San Cipriano Picentino
+San Cipriano Picentino - Comune non indipendente, controllore: Castiglione del Genovesi
 San Cipriano Po - Comuni controllati: 
 	San Cipriano Po
 	Portalbera
@@ -12377,11 +12352,13 @@ San Gavino Monreale - Comuni controllati:
 	Sardara
 	Collinas
 	Pabillonis
+	Villanovaforru
+	Mogoro
+	Gonnostramatza
 San Gemini - Comune non indipendente, controllore: Avigliano Umbro
 San Genesio Atesino - Comune controllato: 
 	San Genesio Atesino
-San Genesio ed Uniti - Comune controllato: 
-	San Genesio ed Uniti
+San Genesio ed Uniti - Comune non indipendente, controllore: Bornasco
 San Gennaro Vesuviano - Comune controllato: 
 	San Gennaro Vesuviano
 San Germano Chisone - Comuni controllati: 
@@ -12401,8 +12378,9 @@ San Giacomo Filippo - Comune controllato:
 	San Giacomo Filippo
 San Giacomo Vercellese - Comune controllato: 
 	San Giacomo Vercellese
-San Giacomo degli Schiavoni - Comune controllato: 
+San Giacomo degli Schiavoni - Comuni controllati: 
 	San Giacomo degli Schiavoni
+	Termoli
 San Giacomo delle Segnate - Comune controllato: 
 	San Giacomo delle Segnate
 San Gillio - Comune controllato: 
@@ -12545,16 +12523,15 @@ San Lorenzo - Comuni controllati:
 	Condofuri
 San Lorenzo Bellizzi - Comune non indipendente, controllore: Terranova di Pollino
 San Lorenzo Isontino - Comune non indipendente, controllore: San Floriano del Collio
-San Lorenzo Maggiore - Comuni controllati: 
+San Lorenzo Maggiore - Comune controllato: 
 	San Lorenzo Maggiore
-	Guardia Sanframondi
 San Lorenzo Nuovo - Comune non indipendente, controllore: Onano
-San Lorenzo al Mare - Comune controllato: 
+San Lorenzo al Mare - Comuni controllati: 
 	San Lorenzo al Mare
+	Costarainera
 San Lorenzo del Vallo - Comune non indipendente, controllore: Spezzano Albanese
 San Lorenzo di Sebato - Comune non indipendente, controllore: Brunico
-San Lorenzo in Banale - Comune controllato: 
-	San Lorenzo in Banale
+San Lorenzo in Banale - Comune non indipendente, controllore: Molveno
 San Lorenzo in Campo - Comune controllato: 
 	San Lorenzo in Campo
 San Luca - Comune controllato: 
@@ -12567,8 +12544,8 @@ San Mango Piemonte - Comune non indipendente, controllore: Castiglione del Genov
 San Mango d'Aquino - Comune non indipendente, controllore: Falerna
 San Mango sul Calore - Comuni controllati: 
 	San Mango sul Calore
-	Luogosano
 	Castelvetere sul Calore
+	Lapio
 San Marcellino - Comune controllato: 
 	San Marcellino
 San Marcello - Comune controllato: 
@@ -12612,7 +12589,7 @@ San Martino d'Agri - Comuni controllati:
 	San Martino d'Agri
 	San Chirico Raparo
 San Martino dall'Argine - Comune non indipendente, controllore: Gazzuolo
-San Martino del Lago - Comune non indipendente, controllore: Scandolara Ravara
+San Martino del Lago - Comune non indipendente, controllore: Motta Baluffi
 San Martino di Finita - Comune non indipendente, controllore: Mongrassano
 San Martino di Lupari - Comune controllato: 
 	San Martino di Lupari
@@ -12676,14 +12653,16 @@ San Michele all'Adige - Comune controllato:
 San Michele di Ganzaria - Comune non indipendente, controllore: Piazza Armerina
 San Michele di Serino - Comune controllato: 
 	San Michele di Serino
-San Miniato - Comune controllato: 
+San Miniato - Comuni controllati: 
 	San Miniato
+	Montopoli in Val d'Arno
 San Nazario - Comune controllato: 
 	San Nazario
 San Nazzaro - Comune non indipendente, controllore: San Martino Sannita
 San Nazzaro Sesia - Comune non indipendente, controllore: Greggio
-San Nazzaro Val Cavargna - Comune controllato: 
+San Nazzaro Val Cavargna - Comuni controllati: 
 	San Nazzaro Val Cavargna
+	San Bartolomeo Val Cavargna
 San Nicandro Garganico - Comuni controllati: 
 	San Nicandro Garganico
 	Apricena
@@ -12739,10 +12718,12 @@ San Pietro Avellana - Comuni controllati:
 San Pietro Clarenza - Comuni controllati: 
 	San Pietro Clarenza
 	Camporotondo Etneo
+	Mascalucia
 San Pietro Infine - Comuni controllati: 
 	San Pietro Infine
 	San Vittore del Lazio
 	Mignano Monte Lungo
+	Venafro
 San Pietro Mosezzo - Comune controllato: 
 	San Pietro Mosezzo
 San Pietro Mussolino - Comuni controllati: 
@@ -12756,8 +12737,7 @@ San Pietro Val Lemina - Comuni controllati:
 San Pietro Vernotico - Comune controllato: 
 	San Pietro Vernotico
 San Pietro Viminario - Comune non indipendente, controllore: Conselve
-San Pietro a Maida - Comune controllato: 
-	San Pietro a Maida
+San Pietro a Maida - Comune non indipendente, controllore: Curinga
 San Pietro al Natisone - Comune non indipendente, controllore: Pulfero
 San Pietro al Tanagro - Comune controllato: 
 	San Pietro al Tanagro
@@ -12793,10 +12773,10 @@ San Polo d'Enza - Comuni controllati:
 San Polo dei Cavalieri - Comuni controllati: 
 	San Polo dei Cavalieri
 	Marcellina
+	Roccagiovine
 San Polo di Piave - Comune controllato: 
 	San Polo di Piave
 San Ponso - Comuni controllati: 
-	San Ponso
 	Pertusio
 	Valperga
 	Prascorsano
@@ -12855,19 +12835,21 @@ San Siro - Comuni controllati:
 San Sossio Baronia - Comuni controllati: 
 	San Sossio Baronia
 	Vallesaccarda
+	Trevico
 San Sostene - Comune non indipendente, controllore: Satriano
 San Sosti - Comuni controllati: 
 	San Sosti
 	Mottafollone
-San Sperate - Comune controllato: 
+San Sperate - Comuni controllati: 
 	San Sperate
+	Monastir
 San Tammaro - Comuni controllati: 
 	San Tammaro
 	Santa Maria Capua Vetere
+	Casaluce
 	Teverola
 San Teodoro - Comune non indipendente, controllore: Loiri Porto San Paolo
-San Teodoro - Comuni controllati: 
-	San Teodoro
+San Teodoro - Comune controllato: 
 	Cesaro'
 San Tomaso Agordino - Comune controllato: 
 	San Tomaso Agordino
@@ -12891,8 +12873,9 @@ San Vito Chietino - Comune controllato:
 	San Vito Chietino
 San Vito Lo Capo - Comune controllato: 
 	San Vito Lo Capo
-San Vito Romano - Comune controllato: 
+San Vito Romano - Comuni controllati: 
 	San Vito Romano
+	Pisoniano
 San Vito al Tagliamento - Comune controllato: 
 	San Vito al Tagliamento
 San Vito al Torre - Comune controllato: 
@@ -12900,11 +12883,12 @@ San Vito al Torre - Comune controllato:
 San Vito dei Normanni - Comuni controllati: 
 	San Vito dei Normanni
 	San Michele Salentino
+	Carovigno
 San Vito di Cadore - Comune non indipendente, controllore: Cortina d'Ampezzo
 San Vito di Fagagna - Comune non indipendente, controllore: Fagagna
 San Vito di Leguzzano - Comune controllato: 
 	San Vito di Leguzzano
-San Vito sullo Ionio - Comune non indipendente, controllore: Cenadi
+San Vito sullo Ionio - Comune non indipendente, controllore: Chiaravalle Centrale
 San Vittore Olona - Comune controllato: 
 	San Vittore Olona
 San Vittore del Lazio - Comune non indipendente, controllore: San Pietro Infine
@@ -12929,10 +12913,11 @@ Sanfre' - Comune controllato:
 Sanfront - Comune non indipendente, controllore: Paesana
 Sangano - Comune non indipendente, controllore: Villarbasse
 Sangiano - Comune non indipendente, controllore: Laveno-Mombello
-Sangineto - Comune non indipendente, controllore: Belvedere Marittimo
+Sangineto - Comune non indipendente, controllore: Bonifati
 Sanguinetto - Comuni controllati: 
 	Sanguinetto
 	Concamarise
+	Casaleone
 Sanluri - Comune controllato: 
 	Sanluri
 Sannazzaro de' Burgondi - Comune controllato: 
@@ -12980,8 +12965,9 @@ Sant'Albano Stura - Comune controllato:
 	Sant'Albano Stura
 Sant'Alessio Siculo - Comune controllato: 
 	Sant'Alessio Siculo
-Sant'Alessio con Vialone - Comune controllato: 
+Sant'Alessio con Vialone - Comuni controllati: 
 	Sant'Alessio con Vialone
+	Lardirago
 Sant'Alessio in Aspromonte - Comuni controllati: 
 	Sant'Alessio in Aspromonte
 	Laganadi
@@ -12997,9 +12983,8 @@ Sant'Ambrogio sul Garigliano - Comune controllato:
 	Sant'Ambrogio sul Garigliano
 Sant'Anastasia - Comune non indipendente, controllore: Somma Vesuviana
 Sant'Anatolia di Narco - Comune non indipendente, controllore: Scheggino
-Sant'Andrea Apostolo dello Ionio - Comuni controllati: 
+Sant'Andrea Apostolo dello Ionio - Comune controllato: 
 	Sant'Andrea Apostolo dello Ionio
-	Isca sullo Ionio
 Sant'Andrea Frius - Comune controllato: 
 	Sant'Andrea Frius
 Sant'Andrea del Garigliano - Comune non indipendente, controllore: Sessa Aurunca
@@ -13007,6 +12992,7 @@ Sant'Andrea di Conza - Comuni controllati:
 	Sant'Andrea di Conza
 	Pescopagano
 	Castelgrande
+	Cairano
 Sant'Angelo Le Fratte - Comune controllato: 
 	Sant'Angelo Le Fratte
 Sant'Angelo Limosano - Comune non indipendente, controllore: San Biase
@@ -13037,6 +13023,7 @@ Sant'Angelo del Pesco - Comune controllato:
 Sant'Angelo di Brolo - Comuni controllati: 
 	Sant'Angelo di Brolo
 	Montagnareale
+	Sinagra
 Sant'Angelo di Piove di Sacco - Comune controllato: 
 	Sant'Angelo di Piove di Sacco
 Sant'Angelo in Lizzola - Comune non indipendente, controllore: Pesaro
@@ -13088,8 +13075,9 @@ Sant'Ilario d'Enza - Comune controllato:
 	Sant'Ilario d'Enza
 Sant'Ilario dello Ionio - Comune controllato: 
 	Sant'Ilario dello Ionio
-Sant'Ippolito - Comune controllato: 
+Sant'Ippolito - Comuni controllati: 
 	Sant'Ippolito
+	Barchi
 Sant'Olcese - Comuni controllati: 
 	Sant'Olcese
 	Serra Ricco'
@@ -13112,6 +13100,7 @@ Santa Caterina dello Ionio - Comuni controllati:
 	Santa Caterina dello Ionio
 	Guardavalle
 	Badolato
+	Isca sullo Ionio
 Santa Cesarea Terme - Comuni controllati: 
 	Santa Cesarea Terme
 	Minervino di Lecce
@@ -13121,6 +13110,7 @@ Santa Cristina Gela - Comune controllato:
 Santa Cristina Valgardena - Comuni controllati: 
 	Santa Cristina Valgardena
 	Selva di Val Gardena
+	Corvara in Badia
 Santa Cristina d'Aspromonte - Comune controllato: 
 	Santa Cristina d'Aspromonte
 Santa Cristina e Bissone - Comune controllato: 
@@ -13141,6 +13131,7 @@ Santa Flavia - Comuni controllati:
 	Santa Flavia
 	Bagheria
 	Ficarazzi
+	Villabate
 Santa Giuletta - Comune controllato: 
 	Santa Giuletta
 Santa Giusta - Comune controllato: 
@@ -13167,12 +13158,12 @@ Santa Margherita di Belice - Comune controllato:
 Santa Margherita di Staffora - Comune controllato: 
 	Santa Margherita di Staffora
 Santa Maria Capua Vetere - Comune non indipendente, controllore: San Tammaro
-Santa Maria Coghinas - Comune controllato: 
-	Santa Maria Coghinas
+Santa Maria Coghinas - Comune non indipendente, controllore: Sedini
 Santa Maria Hoe' - Comuni controllati: 
 	Santa Maria Hoe'
 	Rovagnate
 	Colle Brianza
+	Castello di Brianza
 Santa Maria Imbaro - Comune non indipendente, controllore: Fossacesia
 Santa Maria Maggiore - Comune non indipendente, controllore: Montecrestese
 Santa Maria Nuova - Comune non indipendente, controllore: Filottrano
@@ -13198,9 +13189,8 @@ Santa Maria la Fossa - Comuni controllati:
 	Grazzanise
 	Cancello ed Arnone
 Santa Maria la Longa - Comune non indipendente, controllore: Pavia di Udine
-Santa Marina - Comuni controllati: 
+Santa Marina - Comune controllato: 
 	Santa Marina
-	Ispani
 Santa Marina Salina - Comune non indipendente, controllore: Malfa
 Santa Marinella - Comune controllato: 
 	Santa Marinella
@@ -13291,21 +13281,20 @@ Sapri - Comuni controllati:
 	Sapri
 	Torraca
 	Vibonati
+	Ispani
 Saracena - Comuni controllati: 
 	Saracena
 	Lungro
 Saracinesco - Comune non indipendente, controllore: Sambuci
 Sarcedo - Comune non indipendente, controllore: Montecchio Precalcino
-Sarconi - Comune controllato: 
-	Sarconi
+Sarconi - Comune non indipendente, controllore: Spinoso
 Sardara - Comune non indipendente, controllore: San Gavino Monreale
 Sardigliano - Comuni controllati: 
 	Sardigliano
 	Sant'Agata Fossili
 	Gavazzana
-Sarego - Comuni controllati: 
+Sarego - Comune controllato: 
 	Sarego
-	Grancona
 Sarentino - Comuni controllati: 
 	Sarentino
 	Villandro
@@ -13419,7 +13408,6 @@ Scandicci - Comune controllato:
 	Scandicci
 Scandolara Ravara - Comuni controllati: 
 	Scandolara Ravara
-	San Martino del Lago
 	Torricella del Pizzo
 	Solarolo Rainerio
 	San Giovanni in Croce
@@ -13443,10 +13431,9 @@ Scanzorosciate - Comuni controllati:
 Scapoli - Comune controllato: 
 	Scapoli
 Scarlino - Comune non indipendente, controllore: Gavorrano
-Scarmagno - Comune non indipendente, controllore: Mercenasco
-Scarnafigi - Comuni controllati: 
+Scarmagno - Comune non indipendente, controllore: Cuceglio
+Scarnafigi - Comune controllato: 
 	Scarnafigi
-	Monasterolo di Savigliano
 Scarperia - Comune non indipendente, controllore: San Piero a Sieve
 Scena - Comuni controllati: 
 	Scena
@@ -13518,6 +13505,7 @@ Sedilo - Comune controllato:
 Sedini - Comuni controllati: 
 	Sedini
 	Bulzi
+	Santa Maria Coghinas
 Sedriano - Comune non indipendente, controllore: Vittuone
 Sedrina - Comune controllato: 
 	Sedrina
@@ -13610,6 +13598,7 @@ Serdiana - Comune controllato:
 Seregno - Comuni controllati: 
 	Seregno
 	Albiate
+	Sovico
 Seren del Grappa - Comune controllato: 
 	Seren del Grappa
 Sergnano - Comune controllato: 
@@ -13672,7 +13661,6 @@ Serrastretta - Comune controllato:
 Serrata - Comuni controllati: 
 	Serrata
 	Laureana di Borrello
-	Dinami
 Serravalle Langhe - Comune controllato: 
 	Serravalle Langhe
 Serravalle Pistoiese - Comune controllato: 
@@ -13685,13 +13673,14 @@ Serravalle a Po - Comune non indipendente, controllore: Sustinente
 Serravalle di Chienti - Comuni controllati: 
 	Serravalle di Chienti
 	Monte Cavallo
+	Pieve Torina
 Serre - Comune controllato: 
 	Serre
 Serrenti - Comuni controllati: 
 	Serrenti
 	Samassi
 Serri - Comune non indipendente, controllore: Nurri
-Serrone - Comune non indipendente, controllore: Paliano
+Serrone - Comune non indipendente, controllore: Roiate
 Serrungarina - Comune controllato: 
 	Serrungarina
 Sersale - Comune non indipendente, controllore: Petrona'
@@ -13704,8 +13693,7 @@ Sessa Aurunca - Comuni controllati:
 	Castelforte
 	Roccamonfina
 	Sant'Andrea del Garigliano
-Sessa Cilento - Comune controllato: 
-	Sessa Cilento
+Sessa Cilento - Comune non indipendente, controllore: Rutino
 Sessame - Comune non indipendente, controllore: Bistagno
 Sessano del Molise - Comune controllato: 
 	Sessano del Molise
@@ -13757,8 +13745,9 @@ Setzu - Comune controllato:
 	Setzu
 Seui - Comune controllato: 
 	Seui
-Seulo - Comune controllato: 
+Seulo - Comuni controllati: 
 	Seulo
+	Gadoni
 Seveso - Comuni controllati: 
 	Seveso
 	Cesano Maderno
@@ -13775,6 +13764,7 @@ Sgurgola - Comune controllato:
 Siamaggiore - Comuni controllati: 
 	Siamaggiore
 	Zeddiani
+	Baratili San Pietro
 Siamanna - Comune non indipendente, controllore: Ollastra
 Siano - Comune non indipendente, controllore: Bracigliano
 Siapiccia - Comune non indipendente, controllore: Ollastra
@@ -13809,6 +13799,7 @@ Siligo - Comuni controllati:
 Siliqua - Comuni controllati: 
 	Siliqua
 	Villaspeciosa
+	Musei
 Silius - Comune controllato: 
 	Silius
 Sillano - Comune controllato: 
@@ -13822,8 +13813,9 @@ Silvano d'Orba - Comuni controllati:
 	Montaldeo
 	San Cristoforo
 	Parodi Ligure
-Silvi - Comune controllato: 
+Silvi - Comuni controllati: 
 	Silvi
+	Citta' Sant'Angelo
 Simala - Comune controllato: 
 	Simala
 Simaxis - Comune controllato: 
@@ -13835,8 +13827,7 @@ Simbario - Comuni controllati:
 	Vallelonga
 Simeri Crichi - Comune controllato: 
 	Simeri Crichi
-Sinagra - Comune controllato: 
-	Sinagra
+Sinagra - Comune non indipendente, controllore: Sant'Angelo di Brolo
 Sinalunga - Comuni controllati: 
 	Sinalunga
 	Lucignano
@@ -13903,13 +13894,13 @@ Solarino - Comuni controllati:
 	Priolo Gargallo
 Solaro - Comune controllato: 
 	Solaro
-Solarolo - Comune controllato: 
+Solarolo - Comuni controllati: 
 	Solarolo
+	Bagnara di Romagna
 Solarolo Rainerio - Comune non indipendente, controllore: Scandolara Ravara
 Solarussa - Comune controllato: 
 	Solarussa
-Solbiate - Comuni controllati: 
-	Solbiate
+Solbiate - Comune controllato: 
 	Cagno
 Solbiate Arno - Comune non indipendente, controllore: Lonate Ceppino
 Solbiate Olona - Comune controllato: 
@@ -13937,7 +13928,6 @@ Solopaca - Comuni controllati:
 Solto Collina - Comuni controllati: 
 	Solto Collina
 	Riva di Solto
-	Pianico
 	Castro
 Solza - Comune non indipendente, controllore: Medolago
 Somaglia - Comuni controllati: 
@@ -13978,8 +13968,9 @@ Sonnino - Comune controllato:
 	Sonnino
 Soprana - Comune controllato: 
 	Mezzana Mortigliengo
-Sora - Comune controllato: 
+Sora - Comuni controllati: 
 	Sora
+	Isola del Liri
 Soraga - Comune controllato: 
 	Soraga
 Soragna - Comuni controllati: 
@@ -13990,8 +13981,9 @@ Sorano - Comuni controllati:
 	Castell'Azzara
 	Piancastagnaio
 	Abbadia San Salvatore
-Sorbo San Basile - Comune controllato: 
+Sorbo San Basile - Comuni controllati: 
 	Sorbo San Basile
+	Cicala
 Sorbo Serpico - Comune controllato: 
 	Sorbo Serpico
 Sorbolo - Comuni controllati: 
@@ -14046,15 +14038,15 @@ Sossano - Comune controllato:
 	Sossano
 Sostegno - Comune controllato: 
 	Sostegno
-Sotto il Monte Giovanni XXIII - Comuni controllati: 
-	Sotto il Monte Giovanni XXIII
+Sotto il Monte Giovanni XXIII - Comune controllato: 
 	Carvico
 Sover - Comune controllato: 
 	Sover
 Soverato - Comune controllato: 
 	Soverato
-Sovere - Comune controllato: 
+Sovere - Comuni controllati: 
 	Sovere
+	Pianico
 Soveria Mannelli - Comuni controllati: 
 	Soveria Mannelli
 	Decollatura
@@ -14063,8 +14055,7 @@ Soveria Simeri - Comune controllato:
 Soverzene - Comune non indipendente, controllore: Erto e Casso
 Sovicille - Comune controllato: 
 	Sovicille
-Sovico - Comuni controllati: 
-	Sovico
+Sovico - Comune controllato: 
 	Macherio
 Sovizzo - Comune non indipendente, controllore: Montecchio Maggiore
 Sovramonte - Comune non indipendente, controllore: Lamon
@@ -14116,6 +14107,7 @@ Spinazzola - Comune non indipendente, controllore: Poggiorsini
 Spinea - Comuni controllati: 
 	Spinea
 	Martellago
+	Salzano
 Spineda - Comune controllato: 
 	Spineda
 Spinete - Comuni controllati: 
@@ -14127,8 +14119,9 @@ Spinetoli - Comune non indipendente, controllore: Colli del Tronto
 Spino d'Adda - Comune controllato: 
 	Spino d'Adda
 Spinone al Lago - Comune non indipendente, controllore: Monasterolo del Castello
-Spinoso - Comune controllato: 
+Spinoso - Comuni controllati: 
 	Spinoso
+	Sarconi
 Spirano - Comune controllato: 
 	Spirano
 Spoleto - Comune controllato: 
@@ -14183,8 +14176,7 @@ Stenico - Comuni controllati:
 	Stenico
 	Dorsino
 Sternatia - Comune non indipendente, controllore: Zollino
-Stezzano - Comune controllato: 
-	Stezzano
+Stezzano - Comune non indipendente, controllore: Azzano San Paolo
 Stia - Comune non indipendente, controllore: Londa
 Stienta - Comune controllato: 
 	Stienta
@@ -14317,6 +14309,7 @@ Taipana - Comune controllato:
 Talamello - Comuni controllati: 
 	Talamello
 	Novafeltria
+	Maiolo
 Talamona - Comuni controllati: 
 	Talamona
 	Morbegno
@@ -14363,6 +14356,7 @@ Taurano - Comune controllato:
 Taurasi - Comuni controllati: 
 	Taurasi
 	Sant'Angelo all'Esca
+	Luogosano
 Taurianova - Comune controllato: 
 	Taurianova
 Taurisano - Comuni controllati: 
@@ -14389,9 +14383,10 @@ Tavernole sul Mella - Comune controllato:
 	Tavernole sul Mella
 Taviano - Comune controllato: 
 	Taviano
-Tavigliano - Comune non indipendente, controllore: Quittengo
-Tavoleto - Comune controllato: 
+Tavigliano - Comune non indipendente, controllore: Sagliano Micca
+Tavoleto - Comuni controllati: 
 	Tavoleto
+	Auditore
 Tavullia - Comune controllato: 
 	Tavullia
 Teana - Comune non indipendente, controllore: Castronuovo di Sant'Andrea
@@ -14431,8 +14426,9 @@ Teramo - Comune controllato:
 	Teramo
 Terdobbiate - Comune controllato: 
 	Terdobbiate
-Terelle - Comune controllato: 
+Terelle - Comuni controllati: 
 	Terelle
+	Belmonte Castello
 Terento - Comune controllato: 
 	Terento
 Terenzo - Comune non indipendente, controllore: Fornovo di Taro
@@ -14450,10 +14446,10 @@ Termeno sulla strada del vino - Comune controllato:
 Termini Imerese - Comuni controllati: 
 	Termini Imerese
 	Sciara
-Termoli - Comune controllato: 
-	Termoli
-Ternate - Comune controllato: 
+Termoli - Comune non indipendente, controllore: San Giacomo degli Schiavoni
+Ternate - Comuni controllati: 
 	Ternate
+	Varano Borghi
 Ternengo - Comune non indipendente, controllore: Piatto
 Terni - Comune controllato: 
 	Terni
@@ -14476,7 +14472,7 @@ Terranuova Bracciolini - Comune non indipendente, controllore: Loro Ciuffenna
 Terrasini - Comune controllato: 
 	Terrasini
 Terrassa Padovana - Comune non indipendente, controllore: Conselve
-Terravecchia - Comune non indipendente, controllore: Cariati
+Terravecchia - Comune non indipendente, controllore: Crucoli
 Terrazzo - Comuni controllati: 
 	Terrazzo
 	Urbana
@@ -14512,7 +14508,7 @@ Teulada - Comuni controllati:
 	Teulada
 	Sant'Anna Arresi
 Teverola - Comune non indipendente, controllore: San Tammaro
-Tezze sul Brenta - Comune non indipendente, controllore: Rosa'
+Tezze sul Brenta - Comune non indipendente, controllore: Cartigliano
 Thiene - Comune controllato: 
 	Thiene
 Thiesi - Comune controllato: 
@@ -14631,7 +14627,8 @@ Tornolo - Comuni controllati:
 	Tornolo
 	Varese Ligure
 Toro - Comune non indipendente, controllore: Campodipietra
-Torpe' - Comune non indipendente, controllore: Lode'
+Torpe' - Comune controllato: 
+	Torpe'
 Torraca - Comune non indipendente, controllore: Sapri
 Torralba - Comune controllato: 
 	Torralba
@@ -14643,8 +14640,7 @@ Torrazza Piemonte - Comune controllato:
 Torrazzo - Comune controllato: 
 	Torrazzo
 Torre Annunziata - Comune non indipendente, controllore: Pompei
-Torre Beretti e Castellaro - Comune controllato: 
-	Torre Beretti e Castellaro
+Torre Beretti e Castellaro - Comune non indipendente, controllore: Frascarolo
 Torre Boldone - Comuni controllati: 
 	Torre Boldone
 	Ranica
@@ -14661,8 +14657,7 @@ Torre Mondovi' - Comuni controllati:
 	Monasterolo Casotto
 Torre Orsaia - Comune controllato: 
 	Torre Orsaia
-Torre Pallavicina - Comune controllato: 
-	Torre Pallavicina
+Torre Pallavicina - Comune non indipendente, controllore: Pumenengo
 Torre Pellice - Comune non indipendente, controllore: Rora'
 Torre San Giorgio - Comune non indipendente, controllore: Moretta
 Torre San Patrizio - Comune controllato: 
@@ -14746,13 +14741,12 @@ Torriglia - Comuni controllati:
 	Torriglia
 	Propata
 	Rondanina
-Torrile - Comune controllato: 
-	Torrile
+Torrile - Comune non indipendente, controllore: Colorno
 Torrioni - Comuni controllati: 
 	Torrioni
 	Petruro Irpino
 	Tufo
-Torrita Tiberina - Comune non indipendente, controllore: Montopoli di Sabina
+Torrita Tiberina - Comune non indipendente, controllore: Nazzano
 Torrita di Siena - Comune controllato: 
 	Torrita di Siena
 Tortoli' - Comune non indipendente, controllore: Lotzorai
@@ -14787,6 +14781,7 @@ Tramonti di Sopra - Comuni controllati:
 	Tramonti di Sopra
 	Tramonti di Sotto
 Tramonti di Sotto - Comuni controllati: 
+	Forgaria nel Friuli
 	Clauzetto
 	Vito d'Asio
 Tramutola - Comune controllato: 
@@ -14845,9 +14840,8 @@ Trecasali - Comune non indipendente, controllore: San Secondo Parmense
 Trecase - Comune non indipendente, controllore: Torre del Greco
 Trecastagni - Comune controllato: 
 	Trecastagni
-Trecate - Comuni controllati: 
+Trecate - Comune controllato: 
 	Trecate
-	Romentino
 Trecchina - Comune controllato: 
 	Trecchina
 Trecenta - Comuni controllati: 
@@ -14909,7 +14903,7 @@ Trevenzuolo - Comuni controllati:
 Trevi - Comune controllato: 
 	Trevi
 Trevi nel Lazio - Comune non indipendente, controllore: Vallepietra
-Trevico - Comune non indipendente, controllore: Carife
+Trevico - Comune non indipendente, controllore: San Sossio Baronia
 Treviglio - Comune controllato: 
 	Treviglio
 Trevignano - Comune non indipendente, controllore: Montebelluna
@@ -14990,6 +14984,7 @@ Tromello - Comune controllato:
 Trontano - Comuni controllati: 
 	Trontano
 	Beura-Cardezza
+	Vogogna
 Tronzano Lago Maggiore - Comune non indipendente, controllore: Pino sulla Sponda del Lago Maggiore
 Tronzano Vercellese - Comune non indipendente, controllore: San Germano Vercellese
 Tropea - Comune non indipendente, controllore: Ricadi
@@ -15028,10 +15023,10 @@ Turbigo - Comune non indipendente, controllore: Nosate
 Turi - Comuni controllati: 
 	Turi
 	Sammichele di Bari
+	Casamassima
 Turri - Comune controllato: 
 	Turri
-Turriaco - Comune controllato: 
-	Turriaco
+Turriaco - Comune non indipendente, controllore: Villesse
 Turrivalignani - Comune controllato: 
 	Turrivalignani
 Tursi - Comuni controllati: 
@@ -15049,8 +15044,9 @@ Ubiale Clanezzo - Comune controllato:
 Uboldo - Comuni controllati: 
 	Uboldo
 	Origgio
-Ucria - Comune controllato: 
+Ucria - Comuni controllati: 
 	Ucria
+	Raccuja
 Udine - Comune controllato: 
 	Udine
 Ugento - Comune controllato: 
@@ -15093,9 +15089,8 @@ Usellus - Comune controllato:
 Usini - Comune non indipendente, controllore: Uri
 Usmate Velate - Comune controllato: 
 	Usmate Velate
-Ussana - Comuni controllati: 
+Ussana - Comune controllato: 
 	Ussana
-	Monastir
 Ussaramanna - Comune controllato: 
 	Ussaramanna
 Ussassai - Comune non indipendente, controllore: Gairo
@@ -15135,13 +15130,13 @@ Vailate - Comuni controllati:
 	Calvenzano
 Vairano Patenora - Comune controllato: 
 	Vairano Patenora
-Vajont - Comune controllato: 
+Vajont - Comuni controllati: 
+	Vajont
 	Maniago
 Val Masino - Comune controllato: 
 	Val Masino
-Val Rezzo - Comuni controllati: 
+Val Rezzo - Comune controllato: 
 	Val Rezzo
-	Corrido
 Val della Torre - Comune controllato: 
 	Val della Torre
 Val di Nizza - Comune controllato: 
@@ -15201,8 +15196,7 @@ Valfabbrica - Comune controllato:
 	Valfabbrica
 Valfenera - Comune controllato: 
 	Valfenera
-Valfloriana - Comune controllato: 
-	Valfloriana
+Valfloriana - Comune non indipendente, controllore: Castello-Molina di Fiemme
 Valfurva - Comuni controllati: 
 	Valfurva
 	Bormio
@@ -15307,8 +15301,9 @@ Valmorea - Comune non indipendente, controllore: Rodero
 Valmozzola - Comune non indipendente, controllore: Berceto
 Valnegra - Comune controllato: 
 	Valnegra
-Valpelline - Comune controllato: 
+Valpelline - Comuni controllati: 
 	Valpelline
+	Oyace
 Valperga - Comune non indipendente, controllore: San Ponso
 Valprato Soana - Comune non indipendente, controllore: Champorcher
 Valsavarenche - Comune controllato: 
@@ -15349,8 +15344,7 @@ Varallo - Comune controllato:
 	Varallo
 Varallo Pombia - Comune controllato: 
 	Varallo Pombia
-Varano Borghi - Comune controllato: 
-	Varano Borghi
+Varano Borghi - Comune non indipendente, controllore: Ternate
 Varano de' Melegari - Comuni controllati: 
 	Varano de' Melegari
 	Solignano
@@ -15362,6 +15356,7 @@ Varco Sabino - Comuni controllati:
 	Marcetelli
 	Collegiove
 	Ascrea
+	Paganico Sabino
 Varedo - Comune controllato: 
 	Varedo
 Varena - Comune controllato: 
@@ -15388,8 +15383,9 @@ Varzo - Comune non indipendente, controllore: Crodo
 Vas - Comune controllato: 
 	Vas
 Vasanello - Comune non indipendente, controllore: Orte
-Vasia - Comune controllato: 
+Vasia - Comuni controllati: 
 	Vasia
+	Prela'
 Vasto - Comune non indipendente, controllore: Monteodorisio
 Vastogirardi - Comune controllato: 
 	Vastogirardi
@@ -15412,8 +15408,7 @@ Vedelago - Comune controllato:
 Vedeseta - Comuni controllati: 
 	Moggio
 	Cassina Valsassina
-Veduggio con Colzano - Comune controllato: 
-	Veduggio con Colzano
+Veduggio con Colzano - Comune non indipendente, controllore: Nibionno
 Veggiano - Comune controllato: 
 	Veggiano
 Veglie - Comuni controllati: 
@@ -15435,8 +15430,7 @@ Velo Veronese - Comune controllato:
 Velo d'Astico - Comune controllato: 
 	Velo d'Astico
 Velturno - Comune non indipendente, controllore: Chiusa
-Venafro - Comune controllato: 
-	Venafro
+Venafro - Comune non indipendente, controllore: San Pietro Infine
 Venaria Reale - Comuni controllati: 
 	Venaria Reale
 	Druento
@@ -15549,8 +15543,9 @@ Verrone - Comune controllato:
 Verrua Po - Comune non indipendente, controllore: Rea
 Verrua Savoia - Comune controllato: 
 	Verrua Savoia
-Vertemate con Minoprio - Comune controllato: 
+Vertemate con Minoprio - Comuni controllati: 
 	Vertemate con Minoprio
+	Cucciago
 Vertova - Comune controllato: 
 	Vertova
 Verucchio - Comune controllato: 
@@ -15568,8 +15563,7 @@ Verzino - Comuni controllati:
 Verzuolo - Comune non indipendente, controllore: Lagnasco
 Vescovana - Comune controllato: 
 	Vescovana
-Vescovato - Comune controllato: 
-	Vescovato
+Vescovato - Comune non indipendente, controllore: Persico Dosimo
 Vesime - Comune controllato: 
 	Vesime
 Vespolate - Comune controllato: 
@@ -15633,8 +15627,9 @@ Vico nel Lazio - Comune controllato:
 Vicoforte - Comune non indipendente, controllore: Briaglia
 Vicoli - Comune controllato: 
 	Vicoli
-Vicolungo - Comune controllato: 
+Vicolungo - Comuni controllati: 
 	Vicolungo
+	Mandello Vitta
 Vicopisano - Comune controllato: 
 	Vicopisano
 Vicovaro - Comune controllato: 
@@ -15688,8 +15683,7 @@ Vignate - Comuni controllati:
 Vignola - Comuni controllati: 
 	Vignola
 	Savignano sul Panaro
-Vignola-Falesina - Comune controllato: 
-	Vignola-Falesina
+Vignola-Falesina - Comune non indipendente, controllore: Frassilongo
 Vignole Borbera - Comune controllato: 
 	Vignole Borbera
 Vignolo - Comune controllato: 
@@ -15706,8 +15700,9 @@ Vigo di Fassa - Comune controllato:
 Vigodarzere - Comuni controllati: 
 	Vigodarzere
 	Limena
-Vigolo - Comune controllato: 
+Vigolo - Comuni controllati: 
 	Vigolo
+	Adrara San Rocco
 Vigolo Vattaro - Comune controllato: 
 	Vigolo Vattaro
 Vigolzone - Comune non indipendente, controllore: Ponte dell'Olio
@@ -15793,15 +15788,14 @@ Villa di Serio - Comune controllato:
 	Villa di Serio
 Villa di Tirano - Comune non indipendente, controllore: Bianzone
 Villabassa - Comune non indipendente, controllore: Braies
-Villabate - Comune controllato: 
-	Villabate
+Villabate - Comune non indipendente, controllore: Santa Flavia
 Villachiara - Comuni controllati: 
 	Villachiara
 	Genivolta
 	Cumignano sul Naviglio
 Villacidro - Comune non indipendente, controllore: Vallermosa
 Villadeati - Comune non indipendente, controllore: Castelletto Merli
-Villadose - Comune non indipendente, controllore: Ceregnano
+Villadose - Comune non indipendente, controllore: Crespino
 Villadossola - Comuni controllati: 
 	Villadossola
 	Pallanzeno
@@ -15834,8 +15828,9 @@ Villalba - Comuni controllati:
 	Marianopoli
 Villalfonsina - Comune controllato: 
 	Villalfonsina
-Villalvernia - Comune controllato: 
+Villalvernia - Comuni controllati: 
 	Villalvernia
+	Paderna
 Villamagna - Comune controllato: 
 	Villamagna
 Villamaina - Comune controllato: 
@@ -15851,13 +15846,15 @@ Villamiroglio - Comuni controllati:
 	Moncestino
 Villandro - Comune non indipendente, controllore: Sarentino
 Villanova Biellese - Comune non indipendente, controllore: Massazza
-Villanova Canavese - Comune controllato: 
+Villanova Canavese - Comuni controllati: 
 	Villanova Canavese
+	Nole
 Villanova Marchesana - Comune non indipendente, controllore: Crespino
 Villanova Mondovi' - Comune controllato: 
 	Villanova Mondovi'
-Villanova Monferrato - Comune controllato: 
+Villanova Monferrato - Comuni controllati: 
 	Villanova Monferrato
+	Motta de' Conti
 Villanova Monteleone - Comuni controllati: 
 	Villanova Monteleone
 	Monteleone Rocca Doria
@@ -15872,7 +15869,7 @@ Villanova d'Albenga - Comuni controllati:
 Villanova d'Ardenghi - Comune controllato: 
 	Carbonara al Ticino
 Villanova d'Asti - Comune non indipendente, controllore: Riva presso Chieri
-Villanova del Battista - Comune non indipendente, controllore: Ariano Irpino
+Villanova del Battista - Comune non indipendente, controllore: Flumeri
 Villanova del Ghebbo - Comune controllato: 
 	Villanova del Ghebbo
 Villanova del Sillaro - Comune non indipendente, controllore: Cornegliano Laudense
@@ -15880,14 +15877,13 @@ Villanova di Camposampiero - Comune controllato:
 	Villanova di Camposampiero
 Villanova sull'Arda - Comune controllato: 
 	Villanova sull'Arda
-Villanovaforru - Comune non indipendente, controllore: Pauli Arbarei
+Villanovaforru - Comune non indipendente, controllore: San Gavino Monreale
 Villanovafranca - Comune controllato: 
 	Villanovafranca
 Villanterio - Comuni controllati: 
 	Villanterio
 	Magherno
-Villanuova sul Clisi - Comune controllato: 
-	Villanuova sul Clisi
+Villanuova sul Clisi - Comune non indipendente, controllore: Gavardo
 Villaperuccio - Comune non indipendente, controllore: Narcao
 Villapiana - Comune controllato: 
 	Villapiana
@@ -15934,6 +15930,7 @@ Villeneuve - Comune non indipendente, controllore: Introd
 Villesse - Comuni controllati: 
 	Villesse
 	San Pier d'Isonzo
+	Turriaco
 Villetta Barrea - Comune non indipendente, controllore: Barrea
 Villette - Comune controllato: 
 	Villette
@@ -15967,7 +15964,6 @@ Viola - Comuni controllati:
 Vione - Comune non indipendente, controllore: Vezza d'Oglio
 Vipiteno - Comune non indipendente, controllore: Fortezza
 Virgilio - Comuni controllati: 
-	Virgilio
 	Mantova
 	San Giorgio di Mantova
 Virle Piemonte - Comuni controllati: 
@@ -16006,6 +16002,7 @@ Vittuone - Comuni controllati:
 Vitulano - Comuni controllati: 
 	Vitulano
 	Cautano
+	Paupisi
 Vitulazio - Comune non indipendente, controllore: Capua
 Viu' - Comuni controllati: 
 	Viu'
@@ -16013,8 +16010,9 @@ Viu' - Comuni controllati:
 Vivaro - Comune non indipendente, controllore: San Martino al Tagliamento
 Vivaro Romano - Comune non indipendente, controllore: Turania
 Viverone - Comune non indipendente, controllore: Dorzano
-Vizzini - Comune controllato: 
+Vizzini - Comuni controllati: 
 	Vizzini
+	Buccheri
 Vizzola Ticino - Comune controllato: 
 	Vizzola Ticino
 Vizzolo Predabissi - Comune controllato: 
@@ -16031,7 +16029,7 @@ Voghera - Comune controllato:
 	Voghera
 Voghiera - Comune controllato: 
 	Voghiera
-Vogogna - Comune non indipendente, controllore: Ornavasso
+Vogogna - Comune non indipendente, controllore: Trontano
 Volano - Comuni controllati: 
 	Volano
 	Nomi
@@ -16080,8 +16078,9 @@ Vottignasco - Comuni controllati:
 Zaccanopoli - Comune non indipendente, controllore: Zambrone
 Zafferana Etnea - Comune controllato: 
 	Zafferana Etnea
-Zagarise - Comune controllato: 
+Zagarise - Comuni controllati: 
 	Zagarise
+	Magisano
 Zagarolo - Comune non indipendente, controllore: Monte Compatri
 Zambana - Comune non indipendente, controllore: Fai della Paganella
 Zambrone - Comuni controllati: 
@@ -16092,12 +16091,12 @@ Zambrone - Comuni controllati:
 Zandobbio - Comune controllato: 
 	Zandobbio
 Zane' - Comune non indipendente, controllore: Marano Vicentino
-Zanica - Comune controllato: 
+Zanica - Comuni controllati: 
 	Zanica
+	Grassobbio
 Zapponeta - Comune controllato: 
 	Zapponeta
-Zavattarello - Comuni controllati: 
-	Zavattarello
+Zavattarello - Comune controllato: 
 	Valverde
 Zeccone - Comune non indipendente, controllore: Bornasco
 Zeddiani - Comune non indipendente, controllore: Siamaggiore
@@ -16116,6 +16115,7 @@ Zenson di Piave - Comuni controllati:
 	Monastier di Treviso
 	Fossalta di Piave
 	San Biagio di Callalta
+	Meolo
 Zerba - Comuni controllati: 
 	Zerba
 	Brallo di Pregola
